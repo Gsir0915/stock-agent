@@ -1,0 +1,23 @@
+[
+  {
+    "code": "002053",
+    "name": "云南能投",
+    "entry_price": 13.01,
+    "entry_date": "",
+    "units": 1,
+    "shares_per_unit": 2700,
+    "total_shares": 2700,
+    "total_cost": 35127.0,
+    "initial_stop": 12.290541872115902,
+    "current_stop": 12.53,
+    "stop_n": 2,
+    "atr": 0.35972906394204873,
+    "add_unit_window": 0.18,
+    "add_prices": [
+      13.19,
+      13.37,
+      13.55
+    ],
+    "filled_add_prices": []
+  }
+]
