@@ -1,0 +1,448 @@
+{
+  "generated_at": "2026-03-12T23:42:28.400982",
+  "selections": [
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "600519",
+      "stock_name": "贵州茅台",
+      "entry_price": 1397.0,
+      "quality_score": 0.8532966666666667,
+      "momentum_score": 0.04516271293222516,
+      "dividend_score": 0.4775,
+      "total_score": 0.4586531265329639,
+      "ranks": {
+        "total": 1
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "000858",
+      "stock_name": "五粮液",
+      "entry_price": 101.52,
+      "quality_score": 0.7221966666666667,
+      "momentum_score": 0.10194439646127382,
+      "dividend_score": 0.4775,
+      "total_score": 0.43388035437598016,
+      "ranks": {
+        "total": 2
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "000568",
+      "stock_name": "000568",
+      "entry_price": 105.01,
+      "quality_score": 1.0,
+      "momentum_score": 0.0506362459636424,
+      "dividend_score": 0.4775,
+      "total_score": 0.5093787486545475,
+      "ranks": {
+        "total": 3
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "600809",
+      "stock_name": "600809",
+      "entry_price": 159.16,
+      "quality_score": 1.0,
+      "momentum_score": 0.13723904432210637,
+      "dividend_score": 0.4775,
+      "total_score": 0.5382463481073688,
+      "ranks": {
+        "total": 4
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "002304",
+      "stock_name": "002304",
+      "entry_price": 51.17,
+      "quality_score": 0.49286,
+      "momentum_score": 0.13623834846693536,
+      "dividend_score": 0.4775,
+      "total_score": 0.3688661161556451,
+      "ranks": {
+        "total": 5
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "601318",
+      "stock_name": "中国平安",
+      "entry_price": 61.4,
+      "quality_score": 0.25282666666666664,
+      "momentum_score": 0.11999124521065435,
+      "dividend_score": 0.4775,
+      "total_score": 0.283439303959107,
+      "ranks": {
+        "total": 6
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "600036",
+      "stock_name": "招商银行",
+      "entry_price": 38.79,
+      "quality_score": 0.26671,
+      "momentum_score": 0.3304546101487947,
+      "dividend_score": 0.4775,
+      "total_score": 0.3582215367162649,
+      "ranks": {
+        "total": 7
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "601166",
+      "stock_name": "601166",
+      "entry_price": 18.3,
+      "quality_score": 0.19419666666666666,
+      "momentum_score": 0.20045139115759722,
+      "dividend_score": 0.4775,
+      "total_score": 0.2907160192747546,
+      "ranks": {
+        "total": 8
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "002415",
+      "stock_name": "002415",
+      "entry_price": 31.16,
+      "quality_score": 0.80188,
+      "momentum_score": 0.30467992358604723,
+      "dividend_score": 0.4775,
+      "total_score": 0.5280199745286824,
+      "ranks": {
+        "total": 9
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "300750",
+      "stock_name": "300750",
+      "entry_price": 357.5,
+      "quality_score": 0.70204,
+      "momentum_score": 0.4694558273925724,
+      "dividend_score": 0.4775,
+      "total_score": 0.5496652757975241,
+      "ranks": {
+        "total": 10
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "600030",
+      "stock_name": "600030",
+      "entry_price": 25.88,
+      "quality_score": 0.0562,
+      "momentum_score": 0.12167230917844703,
+      "dividend_score": 0.4775,
+      "total_score": 0.21845743639281567,
+      "ranks": {
+        "total": 11
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "600276",
+      "stock_name": "恒瑞医药",
+      "entry_price": 54.94,
+      "quality_score": 0.6957366666666667,
+      "momentum_score": 0.3067004723995959,
+      "dividend_score": 0.4775,
+      "total_score": 0.4933123796887542,
+      "ranks": {
+        "total": 12
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "000538",
+      "stock_name": "000538",
+      "entry_price": 56.22,
+      "quality_score": 0.73649,
+      "momentum_score": 0.4211714496434135,
+      "dividend_score": 0.4775,
+      "total_score": 0.5450538165478045,
+      "ranks": {
+        "total": 13
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "300122",
+      "stock_name": "300122",
+      "entry_price": 16.17,
+      "quality_score": 0.0,
+      "momentum_score": 0.2583735985626835,
+      "dividend_score": 0.4775,
+      "total_score": 0.24529119952089448,
+      "ranks": {
+        "total": 14
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "600585",
+      "stock_name": "600585",
+      "entry_price": 24.59,
+      "quality_score": 0.0,
+      "momentum_score": 0.3577799218900186,
+      "dividend_score": 0.4775,
+      "total_score": 0.2784266406300062,
+      "ranks": {
+        "total": 15
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "601088",
+      "stock_name": "601088",
+      "entry_price": 47.95,
+      "quality_score": 0.0,
+      "momentum_score": 1.0,
+      "dividend_score": 0.4775,
+      "total_score": 0.4925,
+      "ranks": {
+        "total": 16
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "600900",
+      "stock_name": "600900",
+      "entry_price": 27.2,
+      "quality_score": 0.6355266666666667,
+      "momentum_score": 0.9897486408756097,
+      "dividend_score": 0.4775,
+      "total_score": 0.7009251025140921,
+      "ranks": {
+        "total": 17
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "600519",
+      "stock_name": "贵州茅台",
+      "entry_price": 1397.0,
+      "quality_score": 0.8532966666666667,
+      "momentum_score": 0.04516271293222516,
+      "dividend_score": 0.4775,
+      "total_score": 0.4586531265329639,
+      "ranks": {
+        "total": 1
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "000858",
+      "stock_name": "五粮液",
+      "entry_price": 101.52,
+      "quality_score": 0.7221966666666667,
+      "momentum_score": 0.10194439646127382,
+      "dividend_score": 0.4775,
+      "total_score": 0.43388035437598016,
+      "ranks": {
+        "total": 2
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "000568",
+      "stock_name": "000568",
+      "entry_price": 105.01,
+      "quality_score": 1.0,
+      "momentum_score": 0.0506362459636424,
+      "dividend_score": 0.4775,
+      "total_score": 0.5093787486545475,
+      "ranks": {
+        "total": 3
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "600809",
+      "stock_name": "600809",
+      "entry_price": 159.16,
+      "quality_score": 1.0,
+      "momentum_score": 0.13723904432210637,
+      "dividend_score": 0.4775,
+      "total_score": 0.5382463481073688,
+      "ranks": {
+        "total": 4
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "002304",
+      "stock_name": "002304",
+      "entry_price": 51.17,
+      "quality_score": 0.49286,
+      "momentum_score": 0.13623834846693536,
+      "dividend_score": 0.4775,
+      "total_score": 0.3688661161556451,
+      "ranks": {
+        "total": 5
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "601318",
+      "stock_name": "中国平安",
+      "entry_price": 61.4,
+      "quality_score": 0.25282666666666664,
+      "momentum_score": 0.11999124521065435,
+      "dividend_score": 0.4775,
+      "total_score": 0.283439303959107,
+      "ranks": {
+        "total": 6
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "600036",
+      "stock_name": "招商银行",
+      "entry_price": 38.79,
+      "quality_score": 0.26671,
+      "momentum_score": 0.3304546101487947,
+      "dividend_score": 0.4775,
+      "total_score": 0.3582215367162649,
+      "ranks": {
+        "total": 7
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "601166",
+      "stock_name": "601166",
+      "entry_price": 18.3,
+      "quality_score": 0.19419666666666666,
+      "momentum_score": 0.20045139115759722,
+      "dividend_score": 0.4775,
+      "total_score": 0.2907160192747546,
+      "ranks": {
+        "total": 8
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "002415",
+      "stock_name": "002415",
+      "entry_price": 31.16,
+      "quality_score": 0.80188,
+      "momentum_score": 0.30467992358604723,
+      "dividend_score": 0.4775,
+      "total_score": 0.5280199745286824,
+      "ranks": {
+        "total": 9
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "300750",
+      "stock_name": "300750",
+      "entry_price": 357.5,
+      "quality_score": 0.70204,
+      "momentum_score": 0.4694558273925724,
+      "dividend_score": 0.4775,
+      "total_score": 0.5496652757975241,
+      "ranks": {
+        "total": 10
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "600030",
+      "stock_name": "600030",
+      "entry_price": 25.88,
+      "quality_score": 0.0562,
+      "momentum_score": 0.12167230917844703,
+      "dividend_score": 0.4775,
+      "total_score": 0.21845743639281567,
+      "ranks": {
+        "total": 11
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "600276",
+      "stock_name": "恒瑞医药",
+      "entry_price": 54.94,
+      "quality_score": 0.6957366666666667,
+      "momentum_score": 0.3067004723995959,
+      "dividend_score": 0.4775,
+      "total_score": 0.4933123796887542,
+      "ranks": {
+        "total": 12
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "000538",
+      "stock_name": "000538",
+      "entry_price": 56.22,
+      "quality_score": 0.73649,
+      "momentum_score": 0.4211714496434135,
+      "dividend_score": 0.4775,
+      "total_score": 0.5450538165478045,
+      "ranks": {
+        "total": 13
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "300122",
+      "stock_name": "300122",
+      "entry_price": 16.17,
+      "quality_score": 0.0,
+      "momentum_score": 0.2583735985626835,
+      "dividend_score": 0.4775,
+      "total_score": 0.24529119952089448,
+      "ranks": {
+        "total": 14
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "600585",
+      "stock_name": "600585",
+      "entry_price": 24.59,
+      "quality_score": 0.0,
+      "momentum_score": 0.3577799218900186,
+      "dividend_score": 0.4775,
+      "total_score": 0.2784266406300062,
+      "ranks": {
+        "total": 15
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "601088",
+      "stock_name": "601088",
+      "entry_price": 47.95,
+      "quality_score": 0.0,
+      "momentum_score": 1.0,
+      "dividend_score": 0.4775,
+      "total_score": 0.4925,
+      "ranks": {
+        "total": 16
+      }
+    },
+    {
+      "selection_date": "2026-03-12",
+      "stock_code": "600900",
+      "stock_name": "600900",
+      "entry_price": 27.2,
+      "quality_score": 0.6355266666666667,
+      "momentum_score": 0.9897486408756097,
+      "dividend_score": 0.4775,
+      "total_score": 0.7009251025140921,
+      "ranks": {
+        "total": 17
+      }
+    }
+  ],
+  "results": []
+}

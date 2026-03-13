@@ -1,0 +1,3906 @@
+{
+  "generated_at": "2026-03-13T19:50:00.764247",
+  "selections": [
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002625",
+      "stock_name": "002625",
+      "entry_price": 43.36,
+      "quality_score": 1.0,
+      "momentum_score": 0.04986178536944292,
+      "dividend_score": 0.4775,
+      "total_score": 0.5804723570738886,
+      "ranks": {
+        "total": 1
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300476",
+      "stock_name": "300476",
+      "entry_price": 278.23,
+      "quality_score": 1.0,
+      "momentum_score": 0.3178381914439277,
+      "dividend_score": 0.4775,
+      "total_score": 0.6340676382887855,
+      "ranks": {
+        "total": 2
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300251",
+      "stock_name": "300251",
+      "entry_price": 16.44,
+      "quality_score": 1.0,
+      "momentum_score": 0.0,
+      "dividend_score": 0.4775,
+      "total_score": 0.5705,
+      "ranks": {
+        "total": 3
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002384",
+      "stock_name": "002384",
+      "entry_price": 110.93,
+      "quality_score": 0.0,
+      "momentum_score": 0.8647068817666472,
+      "dividend_score": 0.4775,
+      "total_score": 0.39344137635332943,
+      "ranks": {
+        "total": 4
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "603893",
+      "stock_name": "603893",
+      "entry_price": 167.21,
+      "quality_score": NaN,
+      "momentum_score": 0.10914204975533542,
+      "dividend_score": 0.4775,
+      "total_score": NaN,
+      "ranks": {
+        "total": 5
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300803",
+      "stock_name": "300803",
+      "entry_price": 103.27,
+      "quality_score": 0.0,
+      "momentum_score": 0.09075801822856444,
+      "dividend_score": 0.4775,
+      "total_score": 0.2386516036457129,
+      "ranks": {
+        "total": 6
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601456",
+      "stock_name": "601456",
+      "entry_price": 9.43,
+      "quality_score": 0.0,
+      "momentum_score": 0.07604844663650179,
+      "dividend_score": 0.4775,
+      "total_score": 0.23570968932730035,
+      "ranks": {
+        "total": 7
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600522",
+      "stock_name": "600522",
+      "entry_price": 29.75,
+      "quality_score": 0.0,
+      "momentum_score": 0.7101035951403702,
+      "dividend_score": 0.4775,
+      "total_score": 0.36252071902807403,
+      "ranks": {
+        "total": 8
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601018",
+      "stock_name": "601018",
+      "entry_price": 4.21,
+      "quality_score": 0.7609166666666667,
+      "momentum_score": 0.4854821652230009,
+      "dividend_score": 0.4775,
+      "total_score": 0.5839172663779335,
+      "ranks": {
+        "total": 9
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300866",
+      "stock_name": "300866",
+      "entry_price": 97.1,
+      "quality_score": 0.5138166666666667,
+      "momentum_score": 0.4008191955049322,
+      "dividend_score": 0.4775,
+      "total_score": 0.4804996724343198,
+      "ranks": {
+        "total": 10
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601298",
+      "stock_name": "601298",
+      "entry_price": 9.09,
+      "quality_score": 0.46247333333333335,
+      "momentum_score": 0.0789154593086861,
+      "dividend_score": 0.4775,
+      "total_score": 0.39814875852840387,
+      "ranks": {
+        "total": 11
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002600",
+      "stock_name": "002600",
+      "entry_price": 14.36,
+      "quality_score": 0.0,
+      "momentum_score": 0.162944889448782,
+      "dividend_score": 0.4775,
+      "total_score": 0.2530889778897564,
+      "ranks": {
+        "total": 12
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601077",
+      "stock_name": "601077",
+      "entry_price": 6.97,
+      "quality_score": 0.04093,
+      "momentum_score": 0.8280372315920386,
+      "dividend_score": 0.4775,
+      "total_score": 0.40043294631840776,
+      "ranks": {
+        "total": 13
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601825",
+      "stock_name": "601825",
+      "entry_price": 8.81,
+      "quality_score": 0.36479666666666666,
+      "momentum_score": 0.9038020597332629,
+      "dividend_score": 0.4775,
+      "total_score": 0.5289392452799859,
+      "ranks": {
+        "total": 14
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "001391",
+      "stock_name": "001391",
+      "entry_price": 5.7,
+      "quality_score": 1.0,
+      "momentum_score": 0.09012505566239647,
+      "dividend_score": 0.4775,
+      "total_score": 0.5885250111324792,
+      "ranks": {
+        "total": 15
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "302132",
+      "stock_name": "302132",
+      "entry_price": 72.88,
+      "quality_score": 0.0,
+      "momentum_score": 0.04435281100803916,
+      "dividend_score": 0.4775,
+      "total_score": 0.22937056220160784,
+      "ranks": {
+        "total": 16
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "301236",
+      "stock_name": "301236",
+      "entry_price": 45.65,
+      "quality_score": 0.0,
+      "momentum_score": 0.13002572840231785,
+      "dividend_score": 0.4775,
+      "total_score": 0.24650514568046356,
+      "ranks": {
+        "total": 17
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "688047",
+      "stock_name": "688047",
+      "entry_price": 145.15,
+      "quality_score": NaN,
+      "momentum_score": 0.1710763264431824,
+      "dividend_score": 0.4775,
+      "total_score": NaN,
+      "ranks": {
+        "total": 18
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601058",
+      "stock_name": "601058",
+      "entry_price": 14.31,
+      "quality_score": 1.0,
+      "momentum_score": 0.12986009260044154,
+      "dividend_score": 0.4775,
+      "total_score": 0.5964720185200882,
+      "ranks": {
+        "total": 19
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "688506",
+      "stock_name": "688506",
+      "entry_price": 257.33,
+      "quality_score": NaN,
+      "momentum_score": 0.24756952232424131,
+      "dividend_score": 0.4775,
+      "total_score": NaN,
+      "ranks": {
+        "total": 20
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601136",
+      "stock_name": "601136",
+      "entry_price": 17.44,
+      "quality_score": 1.0,
+      "momentum_score": 0.17283142761654632,
+      "dividend_score": 0.4775,
+      "total_score": 0.6050662855233092,
+      "ranks": {
+        "total": 21
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600066",
+      "stock_name": "600066",
+      "entry_price": 30.65,
+      "quality_score": 1.0,
+      "momentum_score": 0.40899315113760104,
+      "dividend_score": 0.4775,
+      "total_score": 0.6522986302275202,
+      "ranks": {
+        "total": 22
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "688472",
+      "stock_name": "688472",
+      "entry_price": 15.67,
+      "quality_score": 0.0,
+      "momentum_score": 0.7979261004224991,
+      "dividend_score": 0.4775,
+      "total_score": 0.38008522008449985,
+      "ranks": {
+        "total": 23
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300394",
+      "stock_name": "300394",
+      "entry_price": 325.0,
+      "quality_score": 1.0,
+      "momentum_score": 0.45369984216724746,
+      "dividend_score": 0.4775,
+      "total_score": 0.6612399684334495,
+      "ranks": {
+        "total": 24
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300502",
+      "stock_name": "300502",
+      "entry_price": 394.03,
+      "quality_score": 1.0,
+      "momentum_score": 0.6595734387811775,
+      "dividend_score": 0.4775,
+      "total_score": 0.7024146877562355,
+      "ranks": {
+        "total": 25
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600377",
+      "stock_name": "600377",
+      "entry_price": 12.37,
+      "quality_score": 0.4437666666666667,
+      "momentum_score": 0.7092747362588404,
+      "dividend_score": 0.4775,
+      "total_score": 0.5176732805851014,
+      "ranks": {
+        "total": 26
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000630",
+      "stock_name": "000630",
+      "entry_price": 6.95,
+      "quality_score": 1.0,
+      "momentum_score": 0.0523204555874575,
+      "dividend_score": 0.4775,
+      "total_score": 0.5809640911174915,
+      "ranks": {
+        "total": 27
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601127",
+      "stock_name": "601127",
+      "entry_price": 100.23,
+      "quality_score": NaN,
+      "momentum_score": 0.20242914902368864,
+      "dividend_score": 0.4775,
+      "total_score": NaN,
+      "ranks": {
+        "total": 28
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002028",
+      "stock_name": "002028",
+      "entry_price": 211.4,
+      "quality_score": 1.0,
+      "momentum_score": 0.4340047695415363,
+      "dividend_score": 0.4775,
+      "total_score": 0.6573009539083072,
+      "ranks": {
+        "total": 29
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002463",
+      "stock_name": "002463",
+      "entry_price": 81.18,
+      "quality_score": 1.0,
+      "momentum_score": 0.759020309363021,
+      "dividend_score": 0.4775,
+      "total_score": 0.7223040618726042,
+      "ranks": {
+        "total": 30
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600482",
+      "stock_name": "600482",
+      "entry_price": 32.85,
+      "quality_score": 1.0,
+      "momentum_score": 0.46881151360951057,
+      "dividend_score": 0.4775,
+      "total_score": 0.6642623027219021,
+      "ranks": {
+        "total": 31
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "688169",
+      "stock_name": "688169",
+      "entry_price": 132.77,
+      "quality_score": 1.0,
+      "momentum_score": 0.3270736635212345,
+      "dividend_score": 0.4775,
+      "total_score": 0.6359147327042469,
+      "ranks": {
+        "total": 32
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000975",
+      "stock_name": "000975",
+      "entry_price": 32.78,
+      "quality_score": 1.0,
+      "momentum_score": 0.5629049346419454,
+      "dividend_score": 0.4775,
+      "total_score": 0.683080986928389,
+      "ranks": {
+        "total": 33
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002422",
+      "stock_name": "002422",
+      "entry_price": 32.59,
+      "quality_score": 1.0,
+      "momentum_score": 0.5505382328573027,
+      "dividend_score": 0.4775,
+      "total_score": 0.6806076465714606,
+      "ranks": {
+        "total": 34
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600160",
+      "stock_name": "600160",
+      "entry_price": 38.72,
+      "quality_score": 1.0,
+      "momentum_score": 0.08526281875935554,
+      "dividend_score": 0.4775,
+      "total_score": 0.587552563751871,
+      "ranks": {
+        "total": 35
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600027",
+      "stock_name": "600027",
+      "entry_price": 5.32,
+      "quality_score": 1.0,
+      "momentum_score": 0.7407549588346037,
+      "dividend_score": 0.4775,
+      "total_score": 0.7186509917669207,
+      "ranks": {
+        "total": 36
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "688009",
+      "stock_name": "688009",
+      "entry_price": 6.13,
+      "quality_score": 0.059213333333333354,
+      "momentum_score": 0.660436747422479,
+      "dividend_score": 0.4775,
+      "total_score": 0.3733120161511625,
+      "ranks": {
+        "total": 37
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "688082",
+      "stock_name": "688082",
+      "entry_price": 153.48,
+      "quality_score": 0.0,
+      "momentum_score": 0.05745908549170082,
+      "dividend_score": 0.4775,
+      "total_score": 0.23199181709834016,
+      "ranks": {
+        "total": 38
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "603296",
+      "stock_name": "603296",
+      "entry_price": 90.63,
+      "quality_score": 0.49401,
+      "momentum_score": 0.6773968682430731,
+      "dividend_score": 0.4775,
+      "total_score": 0.5288828736486146,
+      "ranks": {
+        "total": 39
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600027",
+      "stock_name": "600027",
+      "entry_price": 5.32,
+      "quality_score": 1.0,
+      "momentum_score": 0.7407549588346037,
+      "dividend_score": 0.4775,
+      "total_score": 0.7186509917669207,
+      "ranks": {
+        "total": 40
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000807",
+      "stock_name": "000807",
+      "entry_price": 34.75,
+      "quality_score": 1.0,
+      "momentum_score": 0.7218806815493531,
+      "dividend_score": 0.4775,
+      "total_score": 0.7148761363098707,
+      "ranks": {
+        "total": 41
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600161",
+      "stock_name": "600161",
+      "entry_price": 16.04,
+      "quality_score": 1.0,
+      "momentum_score": 0.3551064936071448,
+      "dividend_score": 0.4775,
+      "total_score": 0.6415212987214289,
+      "ranks": {
+        "total": 42
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600415",
+      "stock_name": "600415",
+      "entry_price": 13.85,
+      "quality_score": 0.0,
+      "momentum_score": 0.04232426253584942,
+      "dividend_score": 0.4775,
+      "total_score": 0.22896485250716989,
+      "ranks": {
+        "total": 43
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300442",
+      "stock_name": "300442",
+      "entry_price": 83.54,
+      "quality_score": 1.0,
+      "momentum_score": 0.22946868573217932,
+      "dividend_score": 0.4775,
+      "total_score": 0.6163937371464359,
+      "ranks": {
+        "total": 44
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600026",
+      "stock_name": "600026",
+      "entry_price": 22.11,
+      "quality_score": 0.7310633333333333,
+      "momentum_score": 0.49624962013859636,
+      "dividend_score": 0.4775,
+      "total_score": 0.5756220906943859,
+      "ranks": {
+        "total": 45
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300832",
+      "stock_name": "300832",
+      "entry_price": 52.47,
+      "quality_score": 1.0,
+      "momentum_score": 0.4170295630100003,
+      "dividend_score": 0.4775,
+      "total_score": 0.653905912602,
+      "ranks": {
+        "total": 46
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300418",
+      "stock_name": "300418",
+      "entry_price": 50.51,
+      "quality_score": 0.0,
+      "momentum_score": 0.01737197914090145,
+      "dividend_score": 0.4775,
+      "total_score": 0.2239743958281803,
+      "ranks": {
+        "total": 47
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600489",
+      "stock_name": "600489",
+      "entry_price": 30.77,
+      "quality_score": 1.0,
+      "momentum_score": 0.20298833398092517,
+      "dividend_score": 0.4775,
+      "total_score": 0.611097666796185,
+      "ranks": {
+        "total": 48
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000999",
+      "stock_name": "000999",
+      "entry_price": 29.12,
+      "quality_score": 0.9398566666666667,
+      "momentum_score": 0.32776539429712975,
+      "dividend_score": 0.4775,
+      "total_score": 0.6150029121927593,
+      "ranks": {
+        "total": 49
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300308",
+      "stock_name": "300308",
+      "entry_price": 542.02,
+      "quality_score": 1.0,
+      "momentum_score": 0.2811965412867049,
+      "dividend_score": 0.4775,
+      "total_score": 0.6267393082573409,
+      "ranks": {
+        "total": 50
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600372",
+      "stock_name": "600372",
+      "entry_price": 14.2,
+      "quality_score": 1.0,
+      "momentum_score": 0.04657214496637572,
+      "dividend_score": 0.4775,
+      "total_score": 0.5798144289932752,
+      "ranks": {
+        "total": 51
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600938",
+      "stock_name": "600938",
+      "entry_price": 43.36,
+      "quality_score": 1.0,
+      "momentum_score": 0.9964574898785425,
+      "dividend_score": 0.4775,
+      "total_score": 0.7697914979757086,
+      "ranks": {
+        "total": 52
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "688256",
+      "stock_name": "688256",
+      "entry_price": 1096.1,
+      "quality_score": NaN,
+      "momentum_score": 0.40187807311190915,
+      "dividend_score": 0.4775,
+      "total_score": NaN,
+      "ranks": {
+        "total": 53
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "301269",
+      "stock_name": "301269",
+      "entry_price": 93.67,
+      "quality_score": 0.0,
+      "momentum_score": 0.013866032240152542,
+      "dividend_score": 0.4775,
+      "total_score": 0.2232732064480305,
+      "ranks": {
+        "total": 54
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600515",
+      "stock_name": "600515",
+      "entry_price": 3.89,
+      "quality_score": 0.1063,
+      "momentum_score": 0.07935555204175718,
+      "dividend_score": 0.4775,
+      "total_score": 0.27357611040835145,
+      "ranks": {
+        "total": 55
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "688271",
+      "stock_name": "688271",
+      "entry_price": 119.28,
+      "quality_score": 0.7062233333333334,
+      "momentum_score": 0.16109430825764823,
+      "dividend_score": 0.4775,
+      "total_score": 0.49989702831819627,
+      "ranks": {
+        "total": 56
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600023",
+      "stock_name": "600023",
+      "entry_price": 5.57,
+      "quality_score": 1.0,
+      "momentum_score": 0.7121140473121936,
+      "dividend_score": 0.4775,
+      "total_score": 0.7129228094624387,
+      "ranks": {
+        "total": 57
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601059",
+      "stock_name": "601059",
+      "entry_price": 17.44,
+      "quality_score": 0.0,
+      "momentum_score": 0.222566267211921,
+      "dividend_score": 0.4775,
+      "total_score": 0.2650132534423842,
+      "ranks": {
+        "total": 58
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "688041",
+      "stock_name": "688041",
+      "entry_price": 235.74,
+      "quality_score": 0.9616333333333333,
+      "momentum_score": 0.028046415044009863,
+      "dividend_score": 0.4775,
+      "total_score": 0.5626809496754687,
+      "ranks": {
+        "total": 59
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601916",
+      "stock_name": "601916",
+      "entry_price": 3.1,
+      "quality_score": 0.50122,
+      "momentum_score": 0.9070794255850159,
+      "dividend_score": 0.4775,
+      "total_score": 0.5773428851170032,
+      "ranks": {
+        "total": 60
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601872",
+      "stock_name": "601872",
+      "entry_price": 15.58,
+      "quality_score": 1.0,
+      "momentum_score": 0.40226825529164595,
+      "dividend_score": 0.4775,
+      "total_score": 0.6509536510583291,
+      "ranks": {
+        "total": 61
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000617",
+      "stock_name": "000617",
+      "entry_price": 8.88,
+      "quality_score": 0.20881999999999998,
+      "momentum_score": 0.1802316235037441,
+      "dividend_score": 0.4775,
+      "total_score": 0.3296333247007488,
+      "ranks": {
+        "total": 62
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "688223",
+      "stock_name": "688223",
+      "entry_price": 7.89,
+      "quality_score": 0.0,
+      "momentum_score": 0.48880989461814556,
+      "dividend_score": 0.4775,
+      "total_score": 0.3182619789236291,
+      "ranks": {
+        "total": 63
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600875",
+      "stock_name": "600875",
+      "entry_price": 38.4,
+      "quality_score": 0.03718333333333336,
+      "momentum_score": 0.5491376920502423,
+      "dividend_score": 0.4775,
+      "total_score": 0.34334170507671513,
+      "ranks": {
+        "total": 64
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601607",
+      "stock_name": "601607",
+      "entry_price": 17.29,
+      "quality_score": 0.18404,
+      "momentum_score": 0.8414571547588653,
+      "dividend_score": 0.4775,
+      "total_score": 0.45320543095177307,
+      "ranks": {
+        "total": 65
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000983",
+      "stock_name": "000983",
+      "entry_price": 7.45,
+      "quality_score": 0.0,
+      "momentum_score": 0.720459143927605,
+      "dividend_score": 0.4775,
+      "total_score": 0.364591828785521,
+      "ranks": {
+        "total": 66
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600803",
+      "stock_name": "600803",
+      "entry_price": 22.66,
+      "quality_score": 0.0,
+      "momentum_score": 0.6557733399835498,
+      "dividend_score": 0.4775,
+      "total_score": 0.35165466799670997,
+      "ranks": {
+        "total": 67
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600039",
+      "stock_name": "600039",
+      "entry_price": 9.95,
+      "quality_score": 0.0,
+      "momentum_score": 0.3677347530886607,
+      "dividend_score": 0.4775,
+      "total_score": 0.2940469506177321,
+      "ranks": {
+        "total": 68
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "688187",
+      "stock_name": "688187",
+      "entry_price": 55.9,
+      "quality_score": 1.0,
+      "momentum_score": 0.13502770063102576,
+      "dividend_score": 0.4775,
+      "total_score": 0.5975055401262052,
+      "ranks": {
+        "total": 69
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600674",
+      "stock_name": "600674",
+      "entry_price": 15.72,
+      "quality_score": 0.7375866666666667,
+      "momentum_score": 0.7131496123258005,
+      "dividend_score": 0.4775,
+      "total_score": 0.6212852557984935,
+      "ranks": {
+        "total": 70
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601689",
+      "stock_name": "601689",
+      "entry_price": 63.12,
+      "quality_score": 1.0,
+      "momentum_score": 0.024470204490013005,
+      "dividend_score": 0.4775,
+      "total_score": 0.5753940408980026,
+      "ranks": {
+        "total": 71
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "688303",
+      "stock_name": "688303",
+      "entry_price": 23.8,
+      "quality_score": 0.0,
+      "momentum_score": 0.5522152932127004,
+      "dividend_score": 0.4775,
+      "total_score": 0.3309430586425401,
+      "ranks": {
+        "total": 72
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "605117",
+      "stock_name": "605117",
+      "entry_price": 124.5,
+      "quality_score": 0.0,
+      "momentum_score": 0.9974674130082877,
+      "dividend_score": 0.4775,
+      "total_score": 0.4199934826016576,
+      "ranks": {
+        "total": 73
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600233",
+      "stock_name": "600233",
+      "entry_price": 20.7,
+      "quality_score": 0.39365,
+      "momentum_score": 0.9261244574633848,
+      "dividend_score": 0.4775,
+      "total_score": 0.543502391492677,
+      "ranks": {
+        "total": 74
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000792",
+      "stock_name": "000792",
+      "entry_price": 39.6,
+      "quality_score": 0.0,
+      "momentum_score": 0.9034389090918533,
+      "dividend_score": 0.4775,
+      "total_score": 0.40118778181837067,
+      "ranks": {
+        "total": 75
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600219",
+      "stock_name": "600219",
+      "entry_price": 7.37,
+      "quality_score": 1.0,
+      "momentum_score": 0.5437520791299192,
+      "dividend_score": 0.4775,
+      "total_score": 0.6792504158259838,
+      "ranks": {
+        "total": 76
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600188",
+      "stock_name": "600188",
+      "entry_price": 21.77,
+      "quality_score": 0.0,
+      "momentum_score": 0.8076406836669374,
+      "dividend_score": 0.4775,
+      "total_score": 0.38202813673338754,
+      "ranks": {
+        "total": 77
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002920",
+      "stock_name": "002920",
+      "entry_price": 117.24,
+      "quality_score": 0.94356,
+      "momentum_score": 0.2560692285695706,
+      "dividend_score": 0.4775,
+      "total_score": 0.6019598457139141,
+      "ranks": {
+        "total": 78
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002648",
+      "stock_name": "002648",
+      "entry_price": 28.25,
+      "quality_score": 1.0,
+      "momentum_score": 0.791480587128262,
+      "dividend_score": 0.4775,
+      "total_score": 0.7287961174256524,
+      "ranks": {
+        "total": 79
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300661",
+      "stock_name": "300661",
+      "entry_price": 72.73,
+      "quality_score": 1.0,
+      "momentum_score": 0.6143139169844084,
+      "dividend_score": 0.4775,
+      "total_score": 0.6933627833968816,
+      "ranks": {
+        "total": 80
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300979",
+      "stock_name": "300979",
+      "entry_price": 47.14,
+      "quality_score": 1.0,
+      "momentum_score": 0.2437628792829657,
+      "dividend_score": 0.4775,
+      "total_score": 0.6192525758565931,
+      "ranks": {
+        "total": 81
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002920",
+      "stock_name": "002920",
+      "entry_price": 117.24,
+      "quality_score": 0.94356,
+      "momentum_score": 0.2560692285695706,
+      "dividend_score": 0.4775,
+      "total_score": 0.6019598457139141,
+      "ranks": {
+        "total": 82
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000792",
+      "stock_name": "000792",
+      "entry_price": 39.6,
+      "quality_score": 0.0,
+      "momentum_score": 0.9034389090918533,
+      "dividend_score": 0.4775,
+      "total_score": 0.40118778181837067,
+      "ranks": {
+        "total": 83
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600219",
+      "stock_name": "600219",
+      "entry_price": 7.37,
+      "quality_score": 1.0,
+      "momentum_score": 0.5437520791299192,
+      "dividend_score": 0.4775,
+      "total_score": 0.6792504158259838,
+      "ranks": {
+        "total": 84
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600188",
+      "stock_name": "600188",
+      "entry_price": 21.77,
+      "quality_score": 0.0,
+      "momentum_score": 0.8076406836669374,
+      "dividend_score": 0.4775,
+      "total_score": 0.38202813673338754,
+      "ranks": {
+        "total": 85
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000408",
+      "stock_name": "000408",
+      "entry_price": 80.1,
+      "quality_score": 0.0,
+      "momentum_score": 0.10353681397326636,
+      "dividend_score": 0.4775,
+      "total_score": 0.24120736279465327,
+      "ranks": {
+        "total": 86
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600089",
+      "stock_name": "600089",
+      "entry_price": 30.32,
+      "quality_score": 0.0,
+      "momentum_score": 0.40701015618443004,
+      "dividend_score": 0.4775,
+      "total_score": 0.301902031236886,
+      "ranks": {
+        "total": 87
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "603260",
+      "stock_name": "603260",
+      "entry_price": 49.03,
+      "quality_score": 0.0,
+      "momentum_score": 0.31244849429796073,
+      "dividend_score": 0.4775,
+      "total_score": 0.28298969885959213,
+      "ranks": {
+        "total": 88
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300999",
+      "stock_name": "300999",
+      "entry_price": 31.87,
+      "quality_score": 0.52867,
+      "momentum_score": 1.0,
+      "dividend_score": 0.4775,
+      "total_score": 0.6055345,
+      "ranks": {
+        "total": 89
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300896",
+      "stock_name": "300896",
+      "entry_price": 142.1,
+      "quality_score": 1.0,
+      "momentum_score": 0.2186566687795366,
+      "dividend_score": 0.4775,
+      "total_score": 0.6142313337559073,
+      "ranks": {
+        "total": 90
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "688981",
+      "stock_name": "688981",
+      "entry_price": 107.06,
+      "quality_score": 0.0,
+      "momentum_score": 0.21554226874182492,
+      "dividend_score": 0.4775,
+      "total_score": 0.263608453748365,
+      "ranks": {
+        "total": 91
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002466",
+      "stock_name": "002466",
+      "entry_price": 54.15,
+      "quality_score": 0.0,
+      "momentum_score": 0.5754461368520112,
+      "dividend_score": 0.4775,
+      "total_score": 0.33558922737040225,
+      "ranks": {
+        "total": 92
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601898",
+      "stock_name": "601898",
+      "entry_price": 18.82,
+      "quality_score": 0.0,
+      "momentum_score": 0.740349649467161,
+      "dividend_score": 0.4775,
+      "total_score": 0.3685699298934322,
+      "ranks": {
+        "total": 93
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000301",
+      "stock_name": "000301",
+      "entry_price": 11.66,
+      "quality_score": 0.0,
+      "momentum_score": 0.02723378148763964,
+      "dividend_score": 0.4775,
+      "total_score": 0.22594675629752792,
+      "ranks": {
+        "total": 94
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600905",
+      "stock_name": "600905",
+      "entry_price": 4.43,
+      "quality_score": 0.45963,
+      "momentum_score": 0.8975609756097553,
+      "dividend_score": 0.4775,
+      "total_score": 0.5608826951219511,
+      "ranks": {
+        "total": 95
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300782",
+      "stock_name": "300782",
+      "entry_price": 79.59,
+      "quality_score": 1.0,
+      "momentum_score": 0.4223740090807325,
+      "dividend_score": 0.4775,
+      "total_score": 0.6549748018161465,
+      "ranks": {
+        "total": 96
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601728",
+      "stock_name": "601728",
+      "entry_price": 6.18,
+      "quality_score": 0.6077033333333333,
+      "momentum_score": 1.0,
+      "dividend_score": 0.4775,
+      "total_score": 0.6331961666666667,
+      "ranks": {
+        "total": 97
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300316",
+      "stock_name": "300316",
+      "entry_price": 47.21,
+      "quality_score": 1.0,
+      "momentum_score": 0.0678954336838938,
+      "dividend_score": 0.4775,
+      "total_score": 0.5840790867367788,
+      "ranks": {
+        "total": 98
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300759",
+      "stock_name": "300759",
+      "entry_price": 27.79,
+      "quality_score": 0.0,
+      "momentum_score": 0.32297473579474023,
+      "dividend_score": 0.4775,
+      "total_score": 0.28509494715894806,
+      "ranks": {
+        "total": 99
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300760",
+      "stock_name": "300760",
+      "entry_price": 178.57,
+      "quality_score": 1.0,
+      "momentum_score": 0.17144712225253414,
+      "dividend_score": 0.4775,
+      "total_score": 0.6047894244505068,
+      "ranks": {
+        "total": 100
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601868",
+      "stock_name": "601868",
+      "entry_price": 3.74,
+      "quality_score": 1.0,
+      "momentum_score": 0.9702127659574469,
+      "dividend_score": 0.4775,
+      "total_score": 0.7645425531914894,
+      "ranks": {
+        "total": 101
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002459",
+      "stock_name": "002459",
+      "entry_price": 12.74,
+      "quality_score": 0.0,
+      "momentum_score": 0.7466562449905454,
+      "dividend_score": 0.4775,
+      "total_score": 0.3698312489981091,
+      "ranks": {
+        "total": 102
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300750",
+      "stock_name": "300750",
+      "entry_price": 357.5,
+      "quality_score": 0.70204,
+      "momentum_score": 0.4694558273925724,
+      "dividend_score": 0.4775,
+      "total_score": 0.5601051654785145,
+      "ranks": {
+        "total": 103
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002709",
+      "stock_name": "002709",
+      "entry_price": 48.77,
+      "quality_score": 0.0,
+      "momentum_score": 0.9552196305509792,
+      "dividend_score": 0.4775,
+      "total_score": 0.41154392611019586,
+      "ranks": {
+        "total": 104
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "605499",
+      "stock_name": "605499",
+      "entry_price": 227.2,
+      "quality_score": 1.0,
+      "momentum_score": 0.206964253201997,
+      "dividend_score": 0.4775,
+      "total_score": 0.6118928506403993,
+      "ranks": {
+        "total": 105
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "688396",
+      "stock_name": "688396",
+      "entry_price": 49.8,
+      "quality_score": 0.0,
+      "momentum_score": 0.1603311929840031,
+      "dividend_score": 0.4775,
+      "total_score": 0.2525662385968006,
+      "ranks": {
+        "total": 106
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "688126",
+      "stock_name": "688126",
+      "entry_price": 19.34,
+      "quality_score": 0.0,
+      "momentum_score": 0.08772079576767683,
+      "dividend_score": 0.4775,
+      "total_score": 0.23804415915353538,
+      "ranks": {
+        "total": 107
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "688111",
+      "stock_name": "688111",
+      "entry_price": 278.77,
+      "quality_score": 1.0,
+      "momentum_score": 0.05166293475556585,
+      "dividend_score": 0.4775,
+      "total_score": 0.5808325869511132,
+      "ranks": {
+        "total": 108
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601995",
+      "stock_name": "601995",
+      "entry_price": 34.17,
+      "quality_score": 0.0,
+      "momentum_score": 0.1463851682553691,
+      "dividend_score": 0.4775,
+      "total_score": 0.24977703365107382,
+      "ranks": {
+        "total": 109
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600426",
+      "stock_name": "600426",
+      "entry_price": 41.41,
+      "quality_score": 1.0,
+      "momentum_score": 0.860997261337547,
+      "dividend_score": 0.4775,
+      "total_score": 0.7426994522675094,
+      "ranks": {
+        "total": 110
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300274",
+      "stock_name": "300274",
+      "entry_price": 155.8,
+      "quality_score": 1.0,
+      "momentum_score": 0.8531417025961072,
+      "dividend_score": 0.4775,
+      "total_score": 0.7411283405192215,
+      "ranks": {
+        "total": 111
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600600",
+      "stock_name": "600600",
+      "entry_price": 63.42,
+      "quality_score": 0.6730666666666667,
+      "momentum_score": 0.8710957577226799,
+      "dividend_score": 0.4775,
+      "total_score": 0.6302924848778694,
+      "ranks": {
+        "total": 112
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "688012",
+      "stock_name": "688012",
+      "entry_price": 312.93,
+      "quality_score": 0.016369999999999982,
+      "momentum_score": 0.04508104568502602,
+      "dividend_score": 0.4775,
+      "total_score": 0.2352457091370052,
+      "ranks": {
+        "total": 113
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "603195",
+      "stock_name": "603195",
+      "entry_price": 43.8,
+      "quality_score": 1.0,
+      "momentum_score": 0.6428644545247406,
+      "dividend_score": 0.4775,
+      "total_score": 0.6990728909049482,
+      "ranks": {
+        "total": 114
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002049",
+      "stock_name": "002049",
+      "entry_price": 73.74,
+      "quality_score": 0.0,
+      "momentum_score": 0.056783650487771765,
+      "dividend_score": 0.4775,
+      "total_score": 0.23185673009755436,
+      "ranks": {
+        "total": 115
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600150",
+      "stock_name": "600150",
+      "entry_price": 35.18,
+      "quality_score": 1.0,
+      "momentum_score": 0.23063153544708415,
+      "dividend_score": 0.4775,
+      "total_score": 0.6166263070894168,
+      "ranks": {
+        "total": 116
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "603392",
+      "stock_name": "603392",
+      "entry_price": 39.75,
+      "quality_score": 0.0,
+      "momentum_score": 0.3691960017086052,
+      "dividend_score": 0.4775,
+      "total_score": 0.29433920034172106,
+      "ranks": {
+        "total": 117
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600845",
+      "stock_name": "600845",
+      "entry_price": 22.7,
+      "quality_score": 0.8290266666666667,
+      "momentum_score": 0.2985436607231562,
+      "dividend_score": 0.4775,
+      "total_score": 0.5703680654779646,
+      "ranks": {
+        "total": 118
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600918",
+      "stock_name": "600918",
+      "entry_price": 6.24,
+      "quality_score": 0.0,
+      "momentum_score": 0.2789965636216571,
+      "dividend_score": 0.4775,
+      "total_score": 0.2762993127243314,
+      "ranks": {
+        "total": 119
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600845",
+      "stock_name": "600845",
+      "entry_price": 22.7,
+      "quality_score": 0.8290266666666667,
+      "momentum_score": 0.2985436607231562,
+      "dividend_score": 0.4775,
+      "total_score": 0.5703680654779646,
+      "ranks": {
+        "total": 120
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600918",
+      "stock_name": "600918",
+      "entry_price": 6.24,
+      "quality_score": 0.0,
+      "momentum_score": 0.2789965636216571,
+      "dividend_score": 0.4775,
+      "total_score": 0.2762993127243314,
+      "ranks": {
+        "total": 121
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "688008",
+      "stock_name": "688008",
+      "entry_price": 146.5,
+      "quality_score": 1.0,
+      "momentum_score": 0.05980639149796729,
+      "dividend_score": 0.4775,
+      "total_score": 0.5824612782995935,
+      "ranks": {
+        "total": 122
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000977",
+      "stock_name": "000977",
+      "entry_price": 61.79,
+      "quality_score": 1.0,
+      "momentum_score": 0.46645131818668956,
+      "dividend_score": 0.4775,
+      "total_score": 0.663790263637338,
+      "ranks": {
+        "total": 123
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601816",
+      "stock_name": "601816",
+      "entry_price": 5.1,
+      "quality_score": 1.0,
+      "momentum_score": 0.7819400707390237,
+      "dividend_score": 0.4775,
+      "total_score": 0.7268880141478048,
+      "ranks": {
+        "total": 124
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "603369",
+      "stock_name": "603369",
+      "entry_price": 29.4,
+      "quality_score": 1.0,
+      "momentum_score": 0.13289573120342302,
+      "dividend_score": 0.4775,
+      "total_score": 0.5970791462406846,
+      "ranks": {
+        "total": 125
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601100",
+      "stock_name": "601100",
+      "entry_price": 107.7,
+      "quality_score": 0.20693333333333333,
+      "momentum_score": 0.13662451383423976,
+      "dividend_score": 0.4775,
+      "total_score": 0.3202515694335146,
+      "ranks": {
+        "total": 126
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000708",
+      "stock_name": "000708",
+      "entry_price": 17.38,
+      "quality_score": 0.14773,
+      "momentum_score": 0.6268895221878277,
+      "dividend_score": 0.4775,
+      "total_score": 0.39758340443756557,
+      "ranks": {
+        "total": 127
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002371",
+      "stock_name": "002371",
+      "entry_price": 457.88,
+      "quality_score": 1.0,
+      "momentum_score": 0.24785700414485867,
+      "dividend_score": 0.4775,
+      "total_score": 0.6200714008289717,
+      "ranks": {
+        "total": 128
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "003816",
+      "stock_name": "003816",
+      "entry_price": 4.33,
+      "quality_score": 0.41926,
+      "momentum_score": 0.8195266766397893,
+      "dividend_score": 0.4775,
+      "total_score": 0.5311463353279579,
+      "ranks": {
+        "total": 129
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300014",
+      "stock_name": "300014",
+      "entry_price": 68.22,
+      "quality_score": 0.0,
+      "momentum_score": 0.8165625170226449,
+      "dividend_score": 0.4775,
+      "total_score": 0.383812503404529,
+      "ranks": {
+        "total": 130
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300628",
+      "stock_name": "300628",
+      "entry_price": 34.2,
+      "quality_score": 1.0,
+      "momentum_score": 0.04556344396969549,
+      "dividend_score": 0.4775,
+      "total_score": 0.5796126887939391,
+      "ranks": {
+        "total": 131
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601658",
+      "stock_name": "601658",
+      "entry_price": 5.08,
+      "quality_score": 0.2917366666666667,
+      "momentum_score": 0.5161323644479529,
+      "dividend_score": 0.4775,
+      "total_score": 0.42583430622292395,
+      "ranks": {
+        "total": 132
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300347",
+      "stock_name": "300347",
+      "entry_price": 55.11,
+      "quality_score": 0.0,
+      "momentum_score": 0.1422086728435747,
+      "dividend_score": 0.4775,
+      "total_score": 0.24894173456871493,
+      "ranks": {
+        "total": 133
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600183",
+      "stock_name": "600183",
+      "entry_price": 63.44,
+      "quality_score": 1.0,
+      "momentum_score": 0.2378800652141862,
+      "dividend_score": 0.4775,
+      "total_score": 0.6180760130428372,
+      "ranks": {
+        "total": 134
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600989",
+      "stock_name": "600989",
+      "entry_price": 30.64,
+      "quality_score": 0.9962766666666667,
+      "momentum_score": 1.0,
+      "dividend_score": 0.4775,
+      "total_score": 0.7691968333333333,
+      "ranks": {
+        "total": 135
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601236",
+      "stock_name": "601236",
+      "entry_price": 7.93,
+      "quality_score": 0.0,
+      "momentum_score": 0.20161812173364926,
+      "dividend_score": 0.4775,
+      "total_score": 0.26082362434672984,
+      "ranks": {
+        "total": 136
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601698",
+      "stock_name": "601698",
+      "entry_price": 35.64,
+      "quality_score": 0.0,
+      "momentum_score": 0.08358475159262801,
+      "dividend_score": 0.4775,
+      "total_score": 0.2372169503185256,
+      "ranks": {
+        "total": 137
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "603501",
+      "stock_name": "603501",
+      "entry_price": 111.73,
+      "quality_score": 1.0,
+      "momentum_score": 0.03537804574334846,
+      "dividend_score": 0.4775,
+      "total_score": 0.5775756091486697,
+      "ranks": {
+        "total": 138
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002916",
+      "stock_name": "002916",
+      "entry_price": 250.23,
+      "quality_score": 1.0,
+      "momentum_score": 0.2951168509084878,
+      "dividend_score": 0.4775,
+      "total_score": 0.6295233701816976,
+      "ranks": {
+        "total": 139
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000596",
+      "stock_name": "000596",
+      "entry_price": 113.69,
+      "quality_score": 1.0,
+      "momentum_score": 0.17273560004285834,
+      "dividend_score": 0.4775,
+      "total_score": 0.6050471200085716,
+      "ranks": {
+        "total": 140
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002938",
+      "stock_name": "002938",
+      "entry_price": 51.13,
+      "quality_score": 0.9602333333333333,
+      "momentum_score": 0.19550400992971367,
+      "dividend_score": 0.4775,
+      "total_score": 0.5956824686526093,
+      "ranks": {
+        "total": 141
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300413",
+      "stock_name": "300413",
+      "entry_price": 22.18,
+      "quality_score": 0.0,
+      "momentum_score": 0.0,
+      "dividend_score": 0.4775,
+      "total_score": 0.2205,
+      "ranks": {
+        "total": 142
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300498",
+      "stock_name": "300498",
+      "entry_price": 17.43,
+      "quality_score": NaN,
+      "momentum_score": 0.7555037027803999,
+      "dividend_score": 0.4775,
+      "total_score": NaN,
+      "ranks": {
+        "total": 143
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601319",
+      "stock_name": "601319",
+      "entry_price": 8.46,
+      "quality_score": 0.0,
+      "momentum_score": 0.09051171802470726,
+      "dividend_score": 0.4775,
+      "total_score": 0.23860234360494145,
+      "ranks": {
+        "total": 144
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "603019",
+      "stock_name": "603019",
+      "entry_price": 89.1,
+      "quality_score": 0.0,
+      "momentum_score": 0.5864704497091775,
+      "dividend_score": 0.4775,
+      "total_score": 0.3377940899418355,
+      "ranks": {
+        "total": 145
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "603986",
+      "stock_name": "603986",
+      "entry_price": 278.33,
+      "quality_score": 1.0,
+      "momentum_score": 0.15901686861698108,
+      "dividend_score": 0.4775,
+      "total_score": 0.6023033737233962,
+      "ranks": {
+        "total": 146
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002179",
+      "stock_name": "002179",
+      "entry_price": 35.56,
+      "quality_score": 0.0,
+      "momentum_score": 0.5214013824227532,
+      "dividend_score": 0.4775,
+      "total_score": 0.32478027648455066,
+      "ranks": {
+        "total": 147
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000661",
+      "stock_name": "000661",
+      "entry_price": 90.0,
+      "quality_score": 0.45946,
+      "momentum_score": 0.16492805755395704,
+      "dividend_score": 0.4775,
+      "total_score": 0.4142966115107914,
+      "ranks": {
+        "total": 148
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002001",
+      "stock_name": "002001",
+      "entry_price": 38.67,
+      "quality_score": 1.0,
+      "momentum_score": 0.6993455825080896,
+      "dividend_score": 0.4775,
+      "total_score": 0.7103691165016179,
+      "ranks": {
+        "total": 149
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601138",
+      "stock_name": "601138",
+      "entry_price": 52.49,
+      "quality_score": 1.0,
+      "momentum_score": 0.04989887613803139,
+      "dividend_score": 0.4775,
+      "total_score": 0.5804797752276063,
+      "ranks": {
+        "total": 150
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002311",
+      "stock_name": "002311",
+      "entry_price": 56.51,
+      "quality_score": 1.0,
+      "momentum_score": 0.7980255008682429,
+      "dividend_score": 0.4775,
+      "total_score": 0.7301051001736486,
+      "ranks": {
+        "total": 151
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600760",
+      "stock_name": "600760",
+      "entry_price": 51.66,
+      "quality_score": 0.73499,
+      "momentum_score": 0.09301834733619847,
+      "dividend_score": 0.4775,
+      "total_score": 0.49635016946723964,
+      "ranks": {
+        "total": 152
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601066",
+      "stock_name": "601066",
+      "entry_price": 22.94,
+      "quality_score": 0.0,
+      "momentum_score": 0.11857872822083325,
+      "dividend_score": 0.4775,
+      "total_score": 0.24421574564416665,
+      "ranks": {
+        "total": 153
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "603259",
+      "stock_name": "603259",
+      "entry_price": 90.87,
+      "quality_score": 0.0,
+      "momentum_score": 0.04705678101434154,
+      "dividend_score": 0.4775,
+      "total_score": 0.22991135620286832,
+      "ranks": {
+        "total": 154
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601360",
+      "stock_name": "601360",
+      "entry_price": 12.0,
+      "quality_score": NaN,
+      "momentum_score": 0.3608908613276465,
+      "dividend_score": 0.4775,
+      "total_score": NaN,
+      "ranks": {
+        "total": 155
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600025",
+      "stock_name": "600025",
+      "entry_price": 10.49,
+      "quality_score": 1.0,
+      "momentum_score": 0.7727379522846862,
+      "dividend_score": 0.4775,
+      "total_score": 0.7250475904569372,
+      "ranks": {
+        "total": 156
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600346",
+      "stock_name": "600346",
+      "entry_price": 22.96,
+      "quality_score": 1.0,
+      "momentum_score": 0.32137993949505655,
+      "dividend_score": 0.4775,
+      "total_score": 0.6347759878990114,
+      "ranks": {
+        "total": 157
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "603288",
+      "stock_name": "603288",
+      "entry_price": 37.79,
+      "quality_score": 0.7285666666666667,
+      "momentum_score": 0.9503363613115758,
+      "dividend_score": 0.4775,
+      "total_score": 0.6655656055956485,
+      "ranks": {
+        "total": 158
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601238",
+      "stock_name": "601238",
+      "entry_price": 7.87,
+      "quality_score": 0.0,
+      "momentum_score": 0.3996132164107111,
+      "dividend_score": 0.4775,
+      "total_score": 0.30042264328214224,
+      "ranks": {
+        "total": 159
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601808",
+      "stock_name": "601808",
+      "entry_price": 17.69,
+      "quality_score": 1.0,
+      "momentum_score": 0.3039137056711667,
+      "dividend_score": 0.4775,
+      "total_score": 0.6312827411342333,
+      "ranks": {
+        "total": 160
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600176",
+      "stock_name": "600176",
+      "entry_price": 26.1,
+      "quality_score": 0.0,
+      "momentum_score": 0.45119422542049087,
+      "dividend_score": 0.4775,
+      "total_score": 0.3107388450840982,
+      "ranks": {
+        "total": 161
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600438",
+      "stock_name": "600438",
+      "entry_price": 19.32,
+      "quality_score": 0.0,
+      "momentum_score": 0.5655829013746906,
+      "dividend_score": 0.4775,
+      "total_score": 0.3336165802749381,
+      "ranks": {
+        "total": 162
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600809",
+      "stock_name": "600809",
+      "entry_price": 159.16,
+      "quality_score": 1.0,
+      "momentum_score": 0.13723904432210637,
+      "dividend_score": 0.4775,
+      "total_score": 0.5979478088644212,
+      "ranks": {
+        "total": 163
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601360",
+      "stock_name": "601360",
+      "entry_price": 12.0,
+      "quality_score": NaN,
+      "momentum_score": 0.3608908613276465,
+      "dividend_score": 0.4775,
+      "total_score": NaN,
+      "ranks": {
+        "total": 164
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600025",
+      "stock_name": "600025",
+      "entry_price": 10.49,
+      "quality_score": 1.0,
+      "momentum_score": 0.7727379522846862,
+      "dividend_score": 0.4775,
+      "total_score": 0.7250475904569372,
+      "ranks": {
+        "total": 165
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600346",
+      "stock_name": "600346",
+      "entry_price": 22.96,
+      "quality_score": 1.0,
+      "momentum_score": 0.32137993949505655,
+      "dividend_score": 0.4775,
+      "total_score": 0.6347759878990114,
+      "ranks": {
+        "total": 166
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "603288",
+      "stock_name": "603288",
+      "entry_price": 37.79,
+      "quality_score": 0.7285666666666667,
+      "momentum_score": 0.9503363613115758,
+      "dividend_score": 0.4775,
+      "total_score": 0.6655656055956485,
+      "ranks": {
+        "total": 167
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601238",
+      "stock_name": "601238",
+      "entry_price": 7.87,
+      "quality_score": 0.0,
+      "momentum_score": 0.3996132164107111,
+      "dividend_score": 0.4775,
+      "total_score": 0.30042264328214224,
+      "ranks": {
+        "total": 168
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601838",
+      "stock_name": "601838",
+      "entry_price": 17.15,
+      "quality_score": 0.76248,
+      "momentum_score": 0.7460373761534372,
+      "dividend_score": 0.4775,
+      "total_score": 0.6365754752306875,
+      "ranks": {
+        "total": 169
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601012",
+      "stock_name": "601012",
+      "entry_price": 18.87,
+      "quality_score": 0.0,
+      "momentum_score": 0.8135191822860002,
+      "dividend_score": 0.4775,
+      "total_score": 0.3832038364572,
+      "ranks": {
+        "total": 170
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002601",
+      "stock_name": "002601",
+      "entry_price": 19.54,
+      "quality_score": 1.0,
+      "momentum_score": 0.07129529101111082,
+      "dividend_score": 0.4775,
+      "total_score": 0.5847590582022222,
+      "ranks": {
+        "total": 171
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "603799",
+      "stock_name": "603799",
+      "entry_price": 66.83,
+      "quality_score": 0.0,
+      "momentum_score": 0.09450242909749193,
+      "dividend_score": 0.4775,
+      "total_score": 0.23940048581949838,
+      "ranks": {
+        "total": 172
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600011",
+      "stock_name": "600011",
+      "entry_price": 7.85,
+      "quality_score": 1.0,
+      "momentum_score": 0.895962182667949,
+      "dividend_score": 0.4775,
+      "total_score": 0.7496924365335899,
+      "ranks": {
+        "total": 173
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002460",
+      "stock_name": "002460",
+      "entry_price": 70.03,
+      "quality_score": 0.0,
+      "momentum_score": 0.598372967866704,
+      "dividend_score": 0.4775,
+      "total_score": 0.3401745935733408,
+      "ranks": {
+        "total": 174
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601878",
+      "stock_name": "601878",
+      "entry_price": 10.27,
+      "quality_score": 0.015713333333333305,
+      "momentum_score": 0.16467450035613473,
+      "dividend_score": 0.4775,
+      "total_score": 0.2589345667378936,
+      "ranks": {
+        "total": 175
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300122",
+      "stock_name": "300122",
+      "entry_price": 16.17,
+      "quality_score": 0.0,
+      "momentum_score": 0.2583735985626835,
+      "dividend_score": 0.4775,
+      "total_score": 0.2721747197125367,
+      "ranks": {
+        "total": 176
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300015",
+      "stock_name": "300015",
+      "entry_price": 10.16,
+      "quality_score": 0.5987133333333333,
+      "momentum_score": 0.027881179456973153,
+      "dividend_score": 0.4775,
+      "total_score": 0.43562590255806133,
+      "ranks": {
+        "total": 177
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002352",
+      "stock_name": "002352",
+      "entry_price": 38.06,
+      "quality_score": 0.64282,
+      "momentum_score": 0.6808895107390142,
+      "dividend_score": 0.4775,
+      "total_score": 0.5816649021478029,
+      "ranks": {
+        "total": 178
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600436",
+      "stock_name": "600436",
+      "entry_price": 156.42,
+      "quality_score": 1.0,
+      "momentum_score": 0.003520786148211497,
+      "dividend_score": 0.4775,
+      "total_score": 0.5712041572296422,
+      "ranks": {
+        "total": 179
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600919",
+      "stock_name": "600919",
+      "entry_price": 10.75,
+      "quality_score": 0.6643433333333334,
+      "momentum_score": 0.814921493302241,
+      "dividend_score": 0.4775,
+      "total_score": 0.6160044653271148,
+      "ranks": {
+        "total": 180
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600926",
+      "stock_name": "600926",
+      "entry_price": 17.16,
+      "quality_score": 1.0,
+      "momentum_score": 0.8166585614461317,
+      "dividend_score": 0.4775,
+      "total_score": 0.7338317122892264,
+      "ranks": {
+        "total": 181
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601229",
+      "stock_name": "601229",
+      "entry_price": 9.87,
+      "quality_score": 0.38760333333333336,
+      "momentum_score": 0.5396681283266156,
+      "dividend_score": 0.4775,
+      "total_score": 0.4640947923319898,
+      "ranks": {
+        "total": 182
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601881",
+      "stock_name": "601881",
+      "entry_price": 14.04,
+      "quality_score": 0.0,
+      "momentum_score": 0.17972221247100859,
+      "dividend_score": 0.4775,
+      "total_score": 0.25644444249420173,
+      "ranks": {
+        "total": 183
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002714",
+      "stock_name": "002714",
+      "entry_price": 49.79,
+      "quality_score": NaN,
+      "momentum_score": 0.6709177179910758,
+      "dividend_score": 0.4775,
+      "total_score": NaN,
+      "ranks": {
+        "total": 184
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300033",
+      "stock_name": "300033",
+      "entry_price": 318.18,
+      "quality_score": 0.0,
+      "momentum_score": 0.20902846717837398,
+      "dividend_score": 0.4775,
+      "total_score": 0.2623056934356748,
+      "ranks": {
+        "total": 185
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601877",
+      "stock_name": "601877",
+      "entry_price": 39.05,
+      "quality_score": 0.0,
+      "momentum_score": 1.0,
+      "dividend_score": 0.4775,
+      "total_score": 0.4205,
+      "ranks": {
+        "total": 186
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000938",
+      "stock_name": "000938",
+      "entry_price": 25.8,
+      "quality_score": 0.005156666666666669,
+      "momentum_score": 0.7777591260684578,
+      "dividend_score": 0.4775,
+      "total_score": 0.3778566585470249,
+      "ranks": {
+        "total": 187
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002027",
+      "stock_name": "002027",
+      "entry_price": 6.87,
+      "quality_score": 0.5675399999999999,
+      "momentum_score": 0.28853453147338376,
+      "dividend_score": 0.4775,
+      "total_score": 0.4768459062946767,
+      "ranks": {
+        "total": 188
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600061",
+      "stock_name": "600061",
+      "entry_price": 7.3,
+      "quality_score": 0.0,
+      "momentum_score": 0.1862022381906846,
+      "dividend_score": 0.4775,
+      "total_score": 0.2577404476381369,
+      "ranks": {
+        "total": 189
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "001979",
+      "stock_name": "001979",
+      "entry_price": 9.6,
+      "quality_score": 1.0,
+      "momentum_score": 0.24164557396825936,
+      "dividend_score": 0.4775,
+      "total_score": 0.6188291147936519,
+      "ranks": {
+        "total": 190
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601211",
+      "stock_name": "601211",
+      "entry_price": 17.94,
+      "quality_score": 0.0,
+      "momentum_score": 0.08279863070452985,
+      "dividend_score": 0.4775,
+      "total_score": 0.23705972614090598,
+      "ranks": {
+        "total": 191
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601985",
+      "stock_name": "601985",
+      "entry_price": 9.24,
+      "quality_score": 0.4821233333333333,
+      "momentum_score": 1.0,
+      "dividend_score": 0.4775,
+      "total_score": 0.5892431666666667,
+      "ranks": {
+        "total": 192
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002736",
+      "stock_name": "002736",
+      "entry_price": 12.21,
+      "quality_score": 0.0,
+      "momentum_score": 0.39510453224428976,
+      "dividend_score": 0.4775,
+      "total_score": 0.299520906448858,
+      "ranks": {
+        "total": 193
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300059",
+      "stock_name": "300059",
+      "entry_price": 21.1,
+      "quality_score": 0.20983666666666664,
+      "momentum_score": 0.10536980328037024,
+      "dividend_score": 0.4775,
+      "total_score": 0.31501679398940735,
+      "ranks": {
+        "total": 194
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600958",
+      "stock_name": "600958",
+      "entry_price": 9.76,
+      "quality_score": 0.0,
+      "momentum_score": 0.10213563714040486,
+      "dividend_score": 0.4775,
+      "total_score": 0.24092712742808098,
+      "ranks": {
+        "total": 195
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601021",
+      "stock_name": "601021",
+      "entry_price": 48.2,
+      "quality_score": 1.0,
+      "momentum_score": 0.13515992441869878,
+      "dividend_score": 0.4775,
+      "total_score": 0.5975319848837397,
+      "ranks": {
+        "total": 196
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601788",
+      "stock_name": "601788",
+      "entry_price": 16.13,
+      "quality_score": 0.0,
+      "momentum_score": 0.1993030292829429,
+      "dividend_score": 0.4775,
+      "total_score": 0.2603606058565886,
+      "ranks": {
+        "total": 197
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601919",
+      "stock_name": "601919",
+      "entry_price": 15.78,
+      "quality_score": 0.0,
+      "momentum_score": 0.4452104549513654,
+      "dividend_score": 0.4775,
+      "total_score": 0.3095420909902731,
+      "ranks": {
+        "total": 198
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000166",
+      "stock_name": "000166",
+      "entry_price": 4.95,
+      "quality_score": 0.0,
+      "momentum_score": 0.37534914637386846,
+      "dividend_score": 0.4775,
+      "total_score": 0.2955698292747737,
+      "ranks": {
+        "total": 199
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600570",
+      "stock_name": "600570",
+      "entry_price": 27.29,
+      "quality_score": 0.0,
+      "momentum_score": 0.12297054276197461,
+      "dividend_score": 0.4775,
+      "total_score": 0.24509410855239494,
+      "ranks": {
+        "total": 200
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "300124",
+      "stock_name": "300124",
+      "entry_price": 72.79,
+      "quality_score": 0.6487499999999999,
+      "momentum_score": 0.5166245899038261,
+      "dividend_score": 0.4775,
+      "total_score": 0.5508874179807652,
+      "ranks": {
+        "total": 201
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601225",
+      "stock_name": "601225",
+      "entry_price": 26.24,
+      "quality_score": 0.0,
+      "momentum_score": 0.7509931976754788,
+      "dividend_score": 0.4775,
+      "total_score": 0.37069863953509574,
+      "ranks": {
+        "total": 202
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002252",
+      "stock_name": "002252",
+      "entry_price": 6.23,
+      "quality_score": 0.5134500000000001,
+      "momentum_score": 0.3247987436689223,
+      "dividend_score": 0.4775,
+      "total_score": 0.46516724873378446,
+      "ranks": {
+        "total": 203
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002475",
+      "stock_name": "002475",
+      "entry_price": 49.33,
+      "quality_score": 1.0,
+      "momentum_score": 0.4469691448884295,
+      "dividend_score": 0.4775,
+      "total_score": 0.6598938289776859,
+      "ranks": {
+        "total": 204
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600018",
+      "stock_name": "600018",
+      "entry_price": 5.18,
+      "quality_score": 0.5470166666666666,
+      "momentum_score": 0.6544871704808818,
+      "dividend_score": 0.4775,
+      "total_score": 0.5428532674295097,
+      "ranks": {
+        "total": 205
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002230",
+      "stock_name": "002230",
+      "entry_price": 51.8,
+      "quality_score": NaN,
+      "momentum_score": 0.02264845071653393,
+      "dividend_score": 0.4775,
+      "total_score": NaN,
+      "ranks": {
+        "total": 206
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000333",
+      "stock_name": "美的集团",
+      "entry_price": 77.17,
+      "quality_score": 0.6977733333333334,
+      "momentum_score": 0.27363529797004227,
+      "dividend_score": 0.4775,
+      "total_score": 0.5194477262606751,
+      "ranks": {
+        "total": 207
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000963",
+      "stock_name": "000963",
+      "entry_price": 34.93,
+      "quality_score": 0.7733766666666667,
+      "momentum_score": 0.3019515382409571,
+      "dividend_score": 0.4775,
+      "total_score": 0.5515721409815247,
+      "ranks": {
+        "total": 208
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "603993",
+      "stock_name": "603993",
+      "entry_price": 19.76,
+      "quality_score": 1.0,
+      "momentum_score": 0.1632317060976807,
+      "dividend_score": 0.4775,
+      "total_score": 0.6031463412195361,
+      "ranks": {
+        "total": 209
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002236",
+      "stock_name": "002236",
+      "entry_price": 18.07,
+      "quality_score": 0.9640500000000001,
+      "momentum_score": 0.18871455708813495,
+      "dividend_score": 0.4775,
+      "total_score": 0.5956604114176269,
+      "ranks": {
+        "total": 210
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600886",
+      "stock_name": "600886",
+      "entry_price": 14.78,
+      "quality_score": 1.0,
+      "momentum_score": 0.8466155770652849,
+      "dividend_score": 0.4775,
+      "total_score": 0.739823115413057,
+      "ranks": {
+        "total": 211
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601800",
+      "stock_name": "601800",
+      "entry_price": 8.5,
+      "quality_score": 0.6147033333333333,
+      "momentum_score": 1.0,
+      "dividend_score": 0.4775,
+      "total_score": 0.6356461666666666,
+      "ranks": {
+        "total": 212
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000725",
+      "stock_name": "000725",
+      "entry_price": 4.36,
+      "quality_score": NaN,
+      "momentum_score": 0.463194227169252,
+      "dividend_score": 0.4775,
+      "total_score": NaN,
+      "ranks": {
+        "total": 213
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002241",
+      "stock_name": "002241",
+      "entry_price": 25.19,
+      "quality_score": 1.0,
+      "momentum_score": 0.20878569440110364,
+      "dividend_score": 0.4775,
+      "total_score": 0.6122571388802207,
+      "ranks": {
+        "total": 214
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601336",
+      "stock_name": "601336",
+      "entry_price": 70.8,
+      "quality_score": 0.0,
+      "momentum_score": 0.03178636112812141,
+      "dividend_score": 0.4775,
+      "total_score": 0.2268572722256243,
+      "ranks": {
+        "total": 215
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601633",
+      "stock_name": "601633",
+      "entry_price": 21.07,
+      "quality_score": 1.0,
+      "momentum_score": 1.0,
+      "dividend_score": 0.4775,
+      "total_score": 0.7705000000000001,
+      "ranks": {
+        "total": 216
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601669",
+      "stock_name": "601669",
+      "entry_price": 7.19,
+      "quality_score": 0.45165666666666665,
+      "momentum_score": 1.0,
+      "dividend_score": 0.4775,
+      "total_score": 0.5785798333333333,
+      "ranks": {
+        "total": 217
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601901",
+      "stock_name": "601901",
+      "entry_price": 7.41,
+      "quality_score": 1.0,
+      "momentum_score": 0.23128973973166128,
+      "dividend_score": 0.4775,
+      "total_score": 0.6167579479463322,
+      "ranks": {
+        "total": 218
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002594",
+      "stock_name": "比亚迪",
+      "entry_price": 97.52,
+      "quality_score": 0.63912,
+      "momentum_score": 1.0,
+      "dividend_score": 0.4775,
+      "total_score": 0.644192,
+      "ranks": {
+        "total": 219
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601377",
+      "stock_name": "601377",
+      "entry_price": 6.43,
+      "quality_score": 0.0,
+      "momentum_score": 0.08180866633764908,
+      "dividend_score": 0.4775,
+      "total_score": 0.23686173326752982,
+      "ranks": {
+        "total": 220
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000776",
+      "stock_name": "000776",
+      "entry_price": 19.32,
+      "quality_score": 0.0,
+      "momentum_score": 0.05497574701260481,
+      "dividend_score": 0.4775,
+      "total_score": 0.23149514940252097,
+      "ranks": {
+        "total": 221
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002415",
+      "stock_name": "002415",
+      "entry_price": 31.16,
+      "quality_score": 0.80188,
+      "momentum_score": 0.30467992358604723,
+      "dividend_score": 0.4775,
+      "total_score": 0.5620939847172095,
+      "ranks": {
+        "total": 222
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600115",
+      "stock_name": "600115",
+      "entry_price": 4.7,
+      "quality_score": NaN,
+      "momentum_score": 0.12694552461220826,
+      "dividend_score": 0.4775,
+      "total_score": NaN,
+      "ranks": {
+        "total": 223
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600276",
+      "stock_name": "恒瑞医药",
+      "entry_price": 54.94,
+      "quality_score": 0.6957366666666667,
+      "momentum_score": 0.3067004723995959,
+      "dividend_score": 0.4775,
+      "total_score": 0.5253479278132525,
+      "ranks": {
+        "total": 224
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600406",
+      "stock_name": "600406",
+      "entry_price": 29.21,
+      "quality_score": 0.79055,
+      "momentum_score": 0.5827290805213888,
+      "dividend_score": 0.4775,
+      "total_score": 0.6137383161042778,
+      "ranks": {
+        "total": 225
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600887",
+      "stock_name": "600887",
+      "entry_price": 26.71,
+      "quality_score": 1.0,
+      "momentum_score": 0.6346746162270361,
+      "dividend_score": 0.4775,
+      "total_score": 0.6974349232454072,
+      "ranks": {
+        "total": 226
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600893",
+      "stock_name": "600893",
+      "entry_price": 53.88,
+      "quality_score": 1.0,
+      "momentum_score": 0.3272736397295076,
+      "dividend_score": 0.4775,
+      "total_score": 0.6359547279459015,
+      "ranks": {
+        "total": 227
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601818",
+      "stock_name": "601818",
+      "entry_price": 3.33,
+      "quality_score": 0.34430666666666665,
+      "momentum_score": 0.7139038012211268,
+      "dividend_score": 0.4775,
+      "total_score": 0.4837880935775587,
+      "ranks": {
+        "total": 228
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601288",
+      "stock_name": "601288",
+      "entry_price": 6.62,
+      "quality_score": 0.2743533333333333,
+      "momentum_score": 0.45432160637028196,
+      "dividend_score": 0.4775,
+      "total_score": 0.40738798794072306,
+      "ranks": {
+        "total": 229
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002304",
+      "stock_name": "002304",
+      "entry_price": 51.17,
+      "quality_score": 0.49286,
+      "momentum_score": 0.13623834846693536,
+      "dividend_score": 0.4775,
+      "total_score": 0.42024866969338703,
+      "ranks": {
+        "total": 230
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600999",
+      "stock_name": "600999",
+      "entry_price": 15.98,
+      "quality_score": 0.18230333333333335,
+      "momentum_score": 0.11807930374511619,
+      "dividend_score": 0.4775,
+      "total_score": 0.3079220274156899,
+      "ranks": {
+        "total": 231
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601688",
+      "stock_name": "601688",
+      "entry_price": 19.65,
+      "quality_score": 0.0,
+      "momentum_score": 0.03875544411081824,
+      "dividend_score": 0.4775,
+      "total_score": 0.22825108882216366,
+      "ranks": {
+        "total": 232
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601888",
+      "stock_name": "中国中免",
+      "entry_price": 73.29,
+      "quality_score": 0.29174333333333335,
+      "momentum_score": 0.0,
+      "dividend_score": 0.4775,
+      "total_score": 0.32261016666666664,
+      "ranks": {
+        "total": 233
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601618",
+      "stock_name": "601618",
+      "entry_price": 3.31,
+      "quality_score": 0.0,
+      "momentum_score": 0.939291625375502,
+      "dividend_score": 0.4775,
+      "total_score": 0.4083583250751004,
+      "ranks": {
+        "total": 234
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601668",
+      "stock_name": "601668",
+      "entry_price": 5.15,
+      "quality_score": 0.37185,
+      "momentum_score": 0.8553390179053472,
+      "dividend_score": 0.4775,
+      "total_score": 0.5217153035810694,
+      "ranks": {
+        "total": 235
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601766",
+      "stock_name": "601766",
+      "entry_price": 6.42,
+      "quality_score": 1.0,
+      "momentum_score": 0.6963296542913985,
+      "dividend_score": 0.4775,
+      "total_score": 0.7097659308582797,
+      "ranks": {
+        "total": 236
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000100",
+      "stock_name": "000100",
+      "entry_price": 4.87,
+      "quality_score": 0.0,
+      "momentum_score": 0.5281968779859426,
+      "dividend_score": 0.4775,
+      "total_score": 0.32613937559718853,
+      "ranks": {
+        "total": 237
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600588",
+      "stock_name": "600588",
+      "entry_price": 13.21,
+      "quality_score": NaN,
+      "momentum_score": 0.10931344702327571,
+      "dividend_score": 0.4775,
+      "total_score": NaN,
+      "ranks": {
+        "total": 238
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601186",
+      "stock_name": "601186",
+      "entry_price": 7.51,
+      "quality_score": 0.4274366666666667,
+      "momentum_score": 1.0,
+      "dividend_score": 0.4775,
+      "total_score": 0.5701028333333333,
+      "ranks": {
+        "total": 239
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601899",
+      "stock_name": "601899",
+      "entry_price": 35.77,
+      "quality_score": 0.70753,
+      "momentum_score": 0.08102312728393633,
+      "dividend_score": 0.4775,
+      "total_score": 0.4843401254567873,
+      "ranks": {
+        "total": 240
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601390",
+      "stock_name": "601390",
+      "entry_price": 5.94,
+      "quality_score": 0.017759999999999998,
+      "momentum_score": 0.5207316375871982,
+      "dividend_score": 0.4775,
+      "total_score": 0.33086232751743966,
+      "ranks": {
+        "total": 241
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601601",
+      "stock_name": "601601",
+      "entry_price": 39.17,
+      "quality_score": 0.38941333333333333,
+      "momentum_score": 0.12224784636264542,
+      "dividend_score": 0.4775,
+      "total_score": 0.38124423593919576,
+      "ranks": {
+        "total": 242
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601939",
+      "stock_name": "601939",
+      "entry_price": 9.15,
+      "quality_score": 0.24957666666666664,
+      "momentum_score": 0.7847431026444043,
+      "dividend_score": 0.4775,
+      "total_score": 0.4648004538622142,
+      "ranks": {
+        "total": 243
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000338",
+      "stock_name": "000338",
+      "entry_price": 25.01,
+      "quality_score": 1.0,
+      "momentum_score": 0.21545114592322254,
+      "dividend_score": 0.4775,
+      "total_score": 0.6135902291846445,
+      "ranks": {
+        "total": 244
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000895",
+      "stock_name": "000895",
+      "entry_price": 27.93,
+      "quality_score": 0.0,
+      "momentum_score": 0.8581497534606384,
+      "dividend_score": 0.4775,
+      "total_score": 0.3921299506921277,
+      "ranks": {
+        "total": 245
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "002142",
+      "stock_name": "002142",
+      "entry_price": 31.15,
+      "quality_score": 0.5423600000000001,
+      "momentum_score": 0.16667581630440026,
+      "dividend_score": 0.4775,
+      "total_score": 0.4436611632608801,
+      "ranks": {
+        "total": 246
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600111",
+      "stock_name": "600111",
+      "entry_price": 50.82,
+      "quality_score": 0.0,
+      "momentum_score": 0.04043938161106596,
+      "dividend_score": 0.4775,
+      "total_score": 0.2285878763222132,
+      "ranks": {
+        "total": 247
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601009",
+      "stock_name": "601009",
+      "entry_price": 11.18,
+      "quality_score": 0.5054200000000001,
+      "momentum_score": 0.3102305610441013,
+      "dividend_score": 0.4775,
+      "total_score": 0.4594431122088203,
+      "ranks": {
+        "total": 248
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601169",
+      "stock_name": "601169",
+      "entry_price": 5.49,
+      "quality_score": 0.48682,
+      "momentum_score": 0.878306870250559,
+      "dividend_score": 0.4775,
+      "total_score": 0.5665483740501118,
+      "ranks": {
+        "total": 249
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601857",
+      "stock_name": "601857",
+      "entry_price": 12.05,
+      "quality_score": 0.5238133333333334,
+      "momentum_score": 0.45390276488691733,
+      "dividend_score": 0.4775,
+      "total_score": 0.4946152196440502,
+      "ranks": {
+        "total": 250
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601088",
+      "stock_name": "601088",
+      "entry_price": 47.95,
+      "quality_score": 0.0,
+      "momentum_score": 1.0,
+      "dividend_score": 0.4775,
+      "total_score": 0.4205,
+      "ranks": {
+        "total": 251
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000876",
+      "stock_name": "000876",
+      "entry_price": 8.87,
+      "quality_score": NaN,
+      "momentum_score": 0.7103892828453224,
+      "dividend_score": 0.4775,
+      "total_score": NaN,
+      "ranks": {
+        "total": 252
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601328",
+      "stock_name": "601328",
+      "entry_price": 6.85,
+      "quality_score": 0.37368,
+      "momentum_score": 0.8235707949097083,
+      "dividend_score": 0.4775,
+      "total_score": 0.5160021589819417,
+      "ranks": {
+        "total": 253
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601998",
+      "stock_name": "601998",
+      "entry_price": 7.51,
+      "quality_score": 0.3240766666666667,
+      "momentum_score": 0.6993110472182567,
+      "dividend_score": 0.4775,
+      "total_score": 0.47378904277698464,
+      "ranks": {
+        "total": 254
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601600",
+      "stock_name": "601600",
+      "entry_price": 14.08,
+      "quality_score": 1.0,
+      "momentum_score": 0.6055481664928328,
+      "dividend_score": 0.4775,
+      "total_score": 0.6916096332985665,
+      "ranks": {
+        "total": 255
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601318",
+      "stock_name": "中国平安",
+      "entry_price": 61.4,
+      "quality_score": 0.25282666666666664,
+      "momentum_score": 0.11999124521065435,
+      "dividend_score": 0.4775,
+      "total_score": 0.3329875823754642,
+      "ranks": {
+        "total": 256
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601166",
+      "stock_name": "601166",
+      "entry_price": 18.3,
+      "quality_score": 0.19419666666666666,
+      "momentum_score": 0.20045139115759722,
+      "dividend_score": 0.4775,
+      "total_score": 0.3285591115648528,
+      "ranks": {
+        "total": 257
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601628",
+      "stock_name": "601628",
+      "entry_price": 41.93,
+      "quality_score": 0.84831,
+      "momentum_score": 0.05258504862728714,
+      "dividend_score": 0.4775,
+      "total_score": 0.5279255097254574,
+      "ranks": {
+        "total": 258
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600547",
+      "stock_name": "600547",
+      "entry_price": 46.51,
+      "quality_score": 1.0,
+      "momentum_score": 0.19257398642621731,
+      "dividend_score": 0.4775,
+      "total_score": 0.6090147972852434,
+      "ranks": {
+        "total": 259
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601111",
+      "stock_name": "601111",
+      "entry_price": 7.39,
+      "quality_score": NaN,
+      "momentum_score": 0.10093385309901377,
+      "dividend_score": 0.4775,
+      "total_score": NaN,
+      "ranks": {
+        "total": 260
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600048",
+      "stock_name": "600048",
+      "entry_price": 6.46,
+      "quality_score": 0.34786333333333336,
+      "momentum_score": 0.28261269303320086,
+      "dividend_score": 0.4775,
+      "total_score": 0.39877470527330683,
+      "ranks": {
+        "total": 261
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601398",
+      "stock_name": "601398",
+      "entry_price": 7.2,
+      "quality_score": 0.2338866666666667,
+      "momentum_score": 0.6253888818728819,
+      "dividend_score": 0.4775,
+      "total_score": 0.42743810970790974,
+      "ranks": {
+        "total": 262
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601006",
+      "stock_name": "601006",
+      "entry_price": 5.34,
+      "quality_score": 0.0,
+      "momentum_score": 0.7362235799281754,
+      "dividend_score": 0.4775,
+      "total_score": 0.3677447159856351,
+      "ranks": {
+        "total": 263
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "601988",
+      "stock_name": "601988",
+      "entry_price": 5.39,
+      "quality_score": 0.23872,
+      "momentum_score": 0.671627015652294,
+      "dividend_score": 0.4775,
+      "total_score": 0.4383774031304588,
+      "ranks": {
+        "total": 264
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000768",
+      "stock_name": "000768",
+      "entry_price": 26.88,
+      "quality_score": 0.8557366666666667,
+      "momentum_score": 0.015463357850174098,
+      "dividend_score": 0.4775,
+      "total_score": 0.5231005049033681,
+      "ranks": {
+        "total": 265
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000538",
+      "stock_name": "000538",
+      "entry_price": 56.22,
+      "quality_score": 0.73649,
+      "momentum_score": 0.4211714496434135,
+      "dividend_score": 0.4775,
+      "total_score": 0.5625057899286827,
+      "ranks": {
+        "total": 266
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600690",
+      "stock_name": "600690",
+      "entry_price": 25.08,
+      "quality_score": 1.0,
+      "momentum_score": 0.3381555980708868,
+      "dividend_score": 0.4775,
+      "total_score": 0.6381311196141773,
+      "ranks": {
+        "total": 267
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600660",
+      "stock_name": "600660",
+      "entry_price": 59.51,
+      "quality_score": 1.0,
+      "momentum_score": 0.32546412672535263,
+      "dividend_score": 0.4775,
+      "total_score": 0.6355928253450706,
+      "ranks": {
+        "total": 268
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600585",
+      "stock_name": "600585",
+      "entry_price": 24.59,
+      "quality_score": 0.0,
+      "momentum_score": 0.3577799218900186,
+      "dividend_score": 0.4775,
+      "total_score": 0.29205598437800373,
+      "ranks": {
+        "total": 269
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600519",
+      "stock_name": "贵州茅台",
+      "entry_price": 1397.0,
+      "quality_score": 0.8532966666666667,
+      "momentum_score": 0.04516271293222516,
+      "dividend_score": 0.4775,
+      "total_score": 0.5281863759197784,
+      "ranks": {
+        "total": 270
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600362",
+      "stock_name": "600362",
+      "entry_price": 50.74,
+      "quality_score": 0.40127999999999997,
+      "momentum_score": 0.05994881609645519,
+      "dividend_score": 0.4775,
+      "total_score": 0.37293776321929106,
+      "ranks": {
+        "total": 271
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000858",
+      "stock_name": "五粮液",
+      "entry_price": 101.52,
+      "quality_score": 0.7221966666666667,
+      "momentum_score": 0.10194439646127382,
+      "dividend_score": 0.4775,
+      "total_score": 0.4936577126255881,
+      "ranks": {
+        "total": 272
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000625",
+      "stock_name": "000625",
+      "entry_price": 10.82,
+      "quality_score": 0.0,
+      "momentum_score": 0.14911395543863687,
+      "dividend_score": 0.4775,
+      "total_score": 0.25032279108772737,
+      "ranks": {
+        "total": 273
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000651",
+      "stock_name": "000651",
+      "entry_price": 38.6,
+      "quality_score": 0.9624433333333333,
+      "momentum_score": 0.8721150665829984,
+      "dividend_score": 0.4775,
+      "total_score": 0.7317781799832664,
+      "ranks": {
+        "total": 274
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000568",
+      "stock_name": "000568",
+      "entry_price": 105.01,
+      "quality_score": 1.0,
+      "momentum_score": 0.0506362459636424,
+      "dividend_score": 0.4775,
+      "total_score": 0.5806272491927285,
+      "ranks": {
+        "total": 275
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000425",
+      "stock_name": "000425",
+      "entry_price": 11.45,
+      "quality_score": 0.4388633333333333,
+      "momentum_score": 0.04051850462432775,
+      "dividend_score": 0.4775,
+      "total_score": 0.3822058675915322,
+      "ranks": {
+        "total": 276
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000157",
+      "stock_name": "000157",
+      "entry_price": 9.28,
+      "quality_score": 0.9611,
+      "momentum_score": 0.0,
+      "dividend_score": 0.4775,
+      "total_score": 0.556885,
+      "ranks": {
+        "total": 277
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000063",
+      "stock_name": "000063",
+      "entry_price": 36.63,
+      "quality_score": 0.5213066666666666,
+      "momentum_score": 0.2341730735534542,
+      "dividend_score": 0.4775,
+      "total_score": 0.4497919480440241,
+      "ranks": {
+        "total": 278
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000001",
+      "stock_name": "平安银行",
+      "entry_price": 10.96,
+      "quality_score": 0.4086666666666667,
+      "momentum_score": 0.5608490203310235,
+      "dividend_score": 0.4775,
+      "total_score": 0.47570313739953807,
+      "ranks": {
+        "total": 279
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600009",
+      "stock_name": "600009",
+      "entry_price": 29.27,
+      "quality_score": NaN,
+      "momentum_score": 0.09631081495525148,
+      "dividend_score": 0.4775,
+      "total_score": NaN,
+      "ranks": {
+        "total": 280
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600010",
+      "stock_name": "600010",
+      "entry_price": 2.87,
+      "quality_score": 0.0,
+      "momentum_score": 0.43111225568647366,
+      "dividend_score": 0.4775,
+      "total_score": 0.30672245113729474,
+      "ranks": {
+        "total": 281
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600015",
+      "stock_name": "600015",
+      "entry_price": 7.16,
+      "quality_score": 0.35512000000000005,
+      "momentum_score": 0.9218677710174212,
+      "dividend_score": 0.4775,
+      "total_score": 0.5291655542034843,
+      "ranks": {
+        "total": 282
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600016",
+      "stock_name": "600016",
+      "entry_price": 3.96,
+      "quality_score": 0.13899333333333336,
+      "momentum_score": 0.6375825824926862,
+      "dividend_score": 0.4775,
+      "total_score": 0.3966641831652039,
+      "ranks": {
+        "total": 283
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600019",
+      "stock_name": "600019",
+      "entry_price": 7.11,
+      "quality_score": 0.49464,
+      "momentum_score": 0.4181728004955845,
+      "dividend_score": 0.4775,
+      "total_score": 0.47725856009911694,
+      "ranks": {
+        "total": 284
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600028",
+      "stock_name": "600028",
+      "entry_price": 6.33,
+      "quality_score": 0.11406666666666666,
+      "momentum_score": 0.08736868113886755,
+      "dividend_score": 0.4775,
+      "total_score": 0.2778970695611068,
+      "ranks": {
+        "total": 285
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600029",
+      "stock_name": "600029",
+      "entry_price": 6.29,
+      "quality_score": NaN,
+      "momentum_score": 0.11929203348517001,
+      "dividend_score": 0.4775,
+      "total_score": NaN,
+      "ranks": {
+        "total": 286
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600030",
+      "stock_name": "600030",
+      "entry_price": 25.88,
+      "quality_score": 0.0562,
+      "momentum_score": 0.12167230917844703,
+      "dividend_score": 0.4775,
+      "total_score": 0.26450446183568943,
+      "ranks": {
+        "total": 287
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600031",
+      "stock_name": "600031",
+      "entry_price": 21.29,
+      "quality_score": 0.46517,
+      "momentum_score": 0.07731713500405986,
+      "dividend_score": 0.4775,
+      "total_score": 0.3987729270008119,
+      "ranks": {
+        "total": 288
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600036",
+      "stock_name": "招商银行",
+      "entry_price": 38.79,
+      "quality_score": 0.26671,
+      "momentum_score": 0.3304546101487947,
+      "dividend_score": 0.4775,
+      "total_score": 0.37993942202975894,
+      "ranks": {
+        "total": 289
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600050",
+      "stock_name": "600050",
+      "entry_price": 5.07,
+      "quality_score": 0.5832633333333334,
+      "momentum_score": 0.9322281812087251,
+      "dividend_score": 0.4775,
+      "total_score": 0.6110878029084117,
+      "ranks": {
+        "total": 290
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000858",
+      "stock_name": "五粮液",
+      "entry_price": 101.52,
+      "quality_score": 0.7221966666666667,
+      "momentum_score": 0.10194439646127382,
+      "dividend_score": 0.4775,
+      "total_score": 0.4936577126255881,
+      "ranks": {
+        "total": 291
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000625",
+      "stock_name": "000625",
+      "entry_price": 10.82,
+      "quality_score": 0.0,
+      "momentum_score": 0.14911395543863687,
+      "dividend_score": 0.4775,
+      "total_score": 0.25032279108772737,
+      "ranks": {
+        "total": 292
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000651",
+      "stock_name": "000651",
+      "entry_price": 38.6,
+      "quality_score": 0.9624433333333333,
+      "momentum_score": 0.8721150665829984,
+      "dividend_score": 0.4775,
+      "total_score": 0.7317781799832664,
+      "ranks": {
+        "total": 293
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000568",
+      "stock_name": "000568",
+      "entry_price": 105.01,
+      "quality_score": 1.0,
+      "momentum_score": 0.0506362459636424,
+      "dividend_score": 0.4775,
+      "total_score": 0.5806272491927285,
+      "ranks": {
+        "total": 294
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000425",
+      "stock_name": "000425",
+      "entry_price": 11.45,
+      "quality_score": 0.4388633333333333,
+      "momentum_score": 0.04051850462432775,
+      "dividend_score": 0.4775,
+      "total_score": 0.3822058675915322,
+      "ranks": {
+        "total": 295
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000157",
+      "stock_name": "000157",
+      "entry_price": 9.28,
+      "quality_score": 0.9611,
+      "momentum_score": 0.0,
+      "dividend_score": 0.4775,
+      "total_score": 0.556885,
+      "ranks": {
+        "total": 296
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000063",
+      "stock_name": "000063",
+      "entry_price": 36.63,
+      "quality_score": 0.5213066666666666,
+      "momentum_score": 0.2341730735534542,
+      "dividend_score": 0.4775,
+      "total_score": 0.4497919480440241,
+      "ranks": {
+        "total": 297
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000001",
+      "stock_name": "平安银行",
+      "entry_price": 10.96,
+      "quality_score": 0.4086666666666667,
+      "momentum_score": 0.5608490203310235,
+      "dividend_score": 0.4775,
+      "total_score": 0.47570313739953807,
+      "ranks": {
+        "total": 298
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "000002",
+      "stock_name": "000002",
+      "entry_price": 4.7,
+      "quality_score": 0.0,
+      "momentum_score": 0.16593254765085372,
+      "dividend_score": 0.4775,
+      "total_score": 0.25368650953017075,
+      "ranks": {
+        "total": 299
+      }
+    },
+    {
+      "selection_date": "2026-03-13",
+      "stock_code": "600519",
+      "stock_name": "贵州茅台",
+      "entry_price": 1397.0,
+      "quality_score": 0.8532966666666667,
+      "momentum_score": 0.04516271293222516,
+      "dividend_score": 0.4775,
+      "total_score": 0.46898984489972295,
+      "ranks": {
+        "total": 1
+      }
+    }
+  ],
+  "results": []
+}
