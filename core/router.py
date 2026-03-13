@@ -50,12 +50,6 @@ class AgentRouter:
         except ImportError as e:
             print(f"[WARN] 无法加载 SelectorAgent: {e}")
 
-        try:
-            from agents.hot_news.agent import HotNewsAgent
-            self.register(HotNewsAgent())
-        except ImportError as e:
-            print(f"[WARN] 无法加载 HotNewsAgent: {e}")
-
     def register(self, agent: BaseAgent):
         """注册子 Agent
 

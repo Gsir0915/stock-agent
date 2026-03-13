@@ -106,19 +106,6 @@ def create_parser() -> argparse.ArgumentParser:
         default=None,
         help="选股数量 (stock-selector scan 专用)"
     )
-    parser.add_argument(
-        "--sector",
-        type=str,
-        default=None,
-        help="板块/概念 (hot-news fetch 专用)"
-    )
-    parser.add_argument(
-        "--sentiment",
-        type=str,
-        default="all",
-        choices=["positive", "negative", "all"],
-        help="情绪筛选 (hot-news fetch 专用)"
-    )
 
     # 兼容旧命令参数
     parser.add_argument(
@@ -186,7 +173,7 @@ def detect_mode(args):
     # 检查是否有两个位置参数且第二个是命令
     if args.agent and args.command:
         # 如果 agent 是已知的 Agent 名称，则是 agent 模式
-        known_agents = ['stock-analyzer', 'turtle-screener', 'stock-selector', 'hot-news']
+        known_agents = ['stock-analyzer', 'turtle-screener', 'stock-selector']
         if args.agent in known_agents:
             return 'agent'
 
@@ -244,13 +231,6 @@ def main():
                     cmd_kwargs["stock_pool"] = load_stock_pool()
                 # 优先从全局参数获取 top_n，如果没有则使用默认值
                 cmd_kwargs["top_n"] = args.top_n if args.top_n is not None else 10
-
-            # 特殊处理 hot-news 的 fetch 命令
-            if args.agent == "hot-news" and args.command == "fetch":
-                # 从全局参数获取 top_n, sector, sentiment
-                cmd_kwargs["top_n"] = args.top_n if args.top_n is not None else 10
-                cmd_kwargs["sector"] = args.sector if args.sector else None
-                cmd_kwargs["sentiment"] = args.sentiment if args.sentiment else "all"
 
             # 执行命令
             result = router.dispatch(args.agent, args.command, **cmd_kwargs)
