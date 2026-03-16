@@ -12,6 +12,7 @@ from pathlib import Path
 
 from ..exceptions import DataNotFoundError
 from ..utils.logger import get_logger
+from ..utils.trading_calendar import TradingCalendar
 
 logger = get_logger("data.repository")
 
@@ -93,13 +94,14 @@ class DataRepository:
             logger.error(f"加载数据失败：{e}")
             return None
 
-    def is_data_fresh(self, code: str, skip_days: int = 3) -> bool:
+    def is_data_fresh(self, code: str, skip_days: Optional[int] = None) -> bool:
         """
         检查数据是否足够新
 
         Args:
             code: 股票代码
             skip_days: 允许的天数宽容度（考虑周末/休市）
+                       如果为 None，则根据今天是否是交易日动态计算
 
         Returns:
             True 如果数据足够新
@@ -108,6 +110,11 @@ class DataRepository:
 
         if df is None or len(df) == 0:
             return False
+
+        # 动态计算 skip_days
+        if skip_days is None:
+            skip_days = TradingCalendar.get_skip_days()
+            logger.debug(f"使用动态 skip_days: {skip_days} (今天={'交易日' if TradingCalendar.is_trading_day() else '非交易日'})")
 
         try:
             # 获取最新日期
@@ -122,12 +129,12 @@ class DataRepository:
             is_fresh = days_diff <= skip_days
 
             if is_fresh:
-                logger.debug(
-                    f"数据已是最新（最新日期：{latest_date_str}，相差{days_diff}天）"
+                logger.info(
+                    f"数据已是最新（最新日期：{latest_date_str}，相差{days_diff}天，skip_days={skip_days}）"
                 )
             else:
-                logger.debug(
-                    f"数据可能过期（最新日期：{latest_date_str}，相差{days_diff}天）"
+                logger.info(
+                    f"数据可能过期（最新日期：{latest_date_str}，相差{days_diff}天，需要 <= {skip_days}）"
                 )
 
             return is_fresh

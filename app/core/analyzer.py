@@ -15,6 +15,7 @@ from ..data.downloader import DataDownloader
 from ..data.repository import DataRepository, get_repository
 from ..exceptions import AnalysisError, DataNotFoundError
 from ..utils.logger import get_logger
+from ..utils.trading_calendar import TradingCalendar
 
 logger = get_logger("core.analyzer")
 
@@ -82,7 +83,7 @@ class StockAnalyzer:
         code: str,
         name: str,
         download: bool = True,
-        skip_days: int = 3
+        skip_days: Optional[int] = None
     ) -> AnalysisResult:
         """
         执行完整分析
@@ -92,6 +93,7 @@ class StockAnalyzer:
             name: 股票名称
             download: 是否下载最新数据
             skip_days: 数据缓存宽容度
+                       如果为 None，则根据今天是否是交易日动态计算
 
         Returns:
             AnalysisResult 分析结果
@@ -109,7 +111,16 @@ class StockAnalyzer:
 
             if df is None:
                 result.success = False
-                result.errors["data"] = "无法获取股票数据"
+                # 检查是否是缓存过期问题
+                cached_df = self.repository.load_stock_data(code)
+                if cached_df is not None and len(cached_df) > 0:
+                    cached_latest = cached_df.iloc[-1]["日期"]
+                    result.errors["data"] = (
+                        f"无法获取最新股票数据（缓存数据仅更新至 {cached_latest}，"
+                        f"已过期）。请检查网络连接后重试。"
+                    )
+                else:
+                    result.errors["data"] = "无法获取股票数据（无缓存且下载失败）"
                 return result
 
             # 步骤 2: 技术分析
@@ -165,7 +176,7 @@ class StockAnalyzer:
         self,
         code: str,
         download: bool,
-        skip_days: int
+        skip_days: Optional[int] = None
     ) -> Optional[pd.DataFrame]:
         """
         准备数据
@@ -174,31 +185,61 @@ class StockAnalyzer:
             code: 股票代码
             download: 是否下载
             skip_days: 缓存宽容度
+                       如果为 None，则根据今天是否是交易日动态计算
 
         Returns:
             DataFrame 或 None
         """
-        # 检查缓存
-        if not download or self.repository.is_data_fresh(code, skip_days):
-            df = self.repository.load_stock_data(code)
-            if df is not None:
-                logger.info(f"使用缓存数据：{code}")
-                return df
+        # 动态计算 skip_days（如果未指定）
+        if skip_days is None:
+            skip_days = TradingCalendar.get_skip_days()
 
-        # 下载数据
+        # 检查缓存是否新鲜
+        is_fresh = self.repository.is_data_fresh(code, skip_days)
+        cached_df = self.repository.load_stock_data(code)
+
+        # 如果缓存是新鲜的，直接使用
+        if is_fresh and cached_df is not None:
+            logger.info(f"使用缓存数据：{code}")
+            return cached_df
+
+        # 缓存过期或不存在，需要下载最新数据
         if download:
             try:
-                logger.info(f"下载新数据：{code}")
+                logger.info(f"下载新数据：{code}...")
                 df = self.downloader.download_stock_history(code)
                 self.repository.save_stock_data(code, df)
+
+                # 验证下载的数据是否新鲜
+                latest_date = df.iloc[-1]["日期"] if len(df) > 0 else "未知"
+                logger.info(f"成功获取数据，最新日期：{latest_date}")
                 return df
             except Exception as e:
-                logger.warning(f"下载失败：{e}，尝试使用缓存...")
-                # 下载失败时尝试使用旧缓存
-                return self.repository.load_stock_data(code)
+                # 下载失败时，不再使用过期缓存
+                logger.error(f"下载失败：{e}")
+                if not is_fresh and cached_df is not None:
+                    # 缓存已过期，提示用户
+                    cached_latest = cached_df.iloc[-1]["日期"] if len(cached_df) > 0 else "未知"
+                    logger.error(
+                        f"缓存数据已过期（最新：{cached_latest}），"
+                        f"无法生成报告。请检查网络连接后重试。"
+                    )
+                return None
 
-        # 尝试直接加载缓存
-        return self.repository.load_stock_data(code)
+        # 不允许下载且缓存过期/不存在
+        if cached_df is None:
+            logger.error(f"无可用缓存数据：{code}")
+            return None
+
+        if not is_fresh:
+            cached_latest = cached_df.iloc[-1]["日期"] if len(cached_df) > 0 else "未知"
+            logger.error(
+                f"缓存数据已过期（最新：{cached_latest}），"
+                f"请使用 --download 参数获取最新数据"
+            )
+            return None
+
+        return cached_df
 
     def _run_technical_analysis(
         self,
