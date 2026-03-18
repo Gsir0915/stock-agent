@@ -1,0 +1,150 @@
+name: Stock Selector Scan
+
+on:
+  workflow_dispatch:
+    inputs:
+      top_n:
+        description: '返回前 N 只股票'
+        required: true
+        default: '10'
+        type: string
+      use_secret_pool:
+        description: '是否使用 Secrets 中的股票池'
+        required: true
+        default: 'true'
+        type: boolean
+
+env:
+  PYTHON_VERSION: '3.12'
+
+jobs:
+  selector-scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Python 环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+
+      - name: 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 运行选股扫描
+        id: scan
+        env:
+          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+          STOCK_POOL_CODES: ${{ secrets.STOCK_POOL_CODES }}
+          USE_SECRET_POOL: ${{ inputs.use_secret_pool }}
+          TOP_N: ${{ inputs.top_n }}
+        run: |
+          # 输出配置信息
+          echo "=== 配置信息 ==="
+          echo "Top N: $TOP_N"
+          echo "使用 Secrets 股票池：$USE_SECRET_POOL"
+
+          # 构建命令参数
+          if [ "$USE_SECRET_POOL" = "true" ] && [ -n "$STOCK_POOL_CODES" ]; then
+            # 从 Secrets 加载股票池
+            echo "使用 Secrets 中的股票池"
+            # 创建临时股票池文件
+            echo "$STOCK_POOL_CODES" | tr ',' '\n' > /tmp/stock_pool_secret.txt
+            POOL_ARG="--pool /tmp/stock_pool_secret.txt"
+          else
+            echo "使用默认股票池"
+            POOL_ARG=""
+          fi
+
+          # 运行选股命令
+          echo "=== 开始选股扫描 ==="
+          python -m app.main stock-selector scan --top-n "$TOP_N" $POOL_ARG 2>&1 | tee /tmp/scan_output.txt
+
+          # 提取选股结果（用于飞书通知）
+          echo "=== 选股结果 ==="
+          cat /tmp/scan_output.txt
+
+      - name: 发送飞书通知
+        if: always() && env.FEISHU_WEBHOOK_URL != ''
+        env:
+          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+        run: |
+          # 读取选股结果
+          if [ -f /tmp/scan_output.txt ]; then
+            RESULT_CONTENT=$(cat /tmp/scan_output.txt | head -50)
+          else
+            RESULT_CONTENT="选股任务执行完成"
+          fi
+
+          # 转义 JSON 特殊字符
+          RESULT_CONTENT_ESCAPED=$(echo "$RESULT_CONTENT" | sed 's/\\/\\\\/g' | sed 's/"/\\"/g' | sed 's/\t/\\t/g' | tr '\n' ' ')
+
+          # 获取执行状态
+          if [ "${{ job.status }}" == "success" ]; then
+            STATUS_EMOJI="✅"
+            STATUS_TEXT="成功"
+            TEMPLATE_COLOR="green"
+          else
+            STATUS_EMOJI="❌"
+            STATUS_TEXT="失败"
+            TEMPLATE_COLOR="red"
+          fi
+
+          # 构建飞书消息
+          cat <<EOF > /tmp/feishu_payload.json
+          {
+            "msg_type": "interactive",
+            "card": {
+              "config": {
+                "wide_screen_mode": true
+              },
+              "header": {
+                "template": "$TEMPLATE_COLOR",
+                "title": {
+                  "tag": "plain_text",
+                  "content": "$STATUS_EMOJI 选股扫描结果"
+                }
+              },
+              "elements": [
+                {
+                  "tag": "div",
+                  "text": {
+                    "tag": "lark_md",
+                    "content": "**选股扫描${{ job.status == 'success' && '完成' || '失败' }}**\n\n**参数:**\n• Top N: ${{ inputs.top_n }}\n• 使用 Secrets 股票池：${{ inputs.use_secret_pool }}\n\n**执行时间:** $(date '+%Y-%m-%d %H:%M:%S')\n**运行链接:** [查看 GitHub Actions 日志](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})"
+                  }
+                },
+                {
+                  "tag": "hr"
+                },
+                {
+                  "tag": "div",
+                  "text": {
+                    "tag": "lark_md",
+                    "content": "**选股结果:**\n$RESULT_CONTENT_ESCAPED"
+                  }
+                },
+                {
+                  "tag": "hr"
+                },
+                {
+                  "tag": "div",
+                  "text": {
+                    "tag": "lark_md",
+                    "content": "⚠️ *投资有风险，入市需谨慎*"
+                  }
+                }
+              ]
+            }
+          }
+          EOF
+
+          # 发送飞书通知
+          curl -X POST "$FEISHU_WEBHOOK_URL" \
+            -H "Content-Type: application/json" \
+            -d @/tmp/feishu_payload.json

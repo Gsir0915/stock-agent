@@ -1,0 +1,56 @@
+# 缓存配置文件
+
+# 全局开关
+enable_cache: true
+
+# L1 内存缓存配置
+memory_cache:
+  enabled: true
+  max_size: 10000       # 最大缓存条目数
+  default_ttl: 300      # 默认 TTL（5 分钟）
+
+# L2 SQLite 缓存配置
+sqlite_cache:
+  enabled: true
+  db_path: data/cache.db
+  wal_mode: true        # 启用 WAL 模式提高并发性能
+
+# L3 批量预取配置
+batch_fetcher:
+  enabled: true
+  batch_size: 5000      # 批量获取大小
+  max_workers: 4        # 最大工作线程数
+
+# TTL 配置（按数据类型）
+ttl:
+  # 基本面数据（变化频率低）
+  fundamentals:
+    base_ttl: 86400         # 24 小时
+    refresh_time: "20:00"   # 每日 20:00 强制刷新
+
+  # 技术面数据（盘中高频变化）
+  technicals:
+    base_ttl: 300           # 盘中 5 分钟
+    market_hours_ttl: 300   # 盘中 TTL（5 分钟）
+    after_market_ttl: 3600  # 盘后 TTL（1 小时）
+    pre_market_ttl: 43200   # 盘前 TTL（12 小时）
+
+  # 新闻数据
+  news:
+    base_ttl: 1800          # 30 分钟
+    max_age: 86400          # 最多保留 24 小时新闻
+
+  # 概念成分股（周更新）
+  concepts:
+    base_ttl: 604800        # 7 天
+    refresh_day: "Sunday"   # 每周日刷新
+
+# 降级配置
+fallback_enabled: true
+max_retries: 3
+retry_delay: 1.0
+
+# 监控告警配置
+stats_enabled: true
+alert_on_low_hit_rate: 0.5      # 命中率低于 50% 告警
+alert_on_high_fallback_rate: 0.2 # 降级率高于 20% 告警
