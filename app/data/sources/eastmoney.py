@@ -19,7 +19,15 @@ class EastMoneySource(BaseDataSource):
 
     def __init__(self, timeout: int = 10, retry_times: int = 3):
         super().__init__(timeout, retry_times)
-        self.base_url = "http://77.push2his.eastmoney.com/api/qt/stock/kline/get"
+        self.base_url = "https://push2his.eastmoney.com/api/qt/stock/kline/get"
+        # 模拟浏览器请求头，避免被反爬拦截
+        self.headers = {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://quote.eastmoney.com/",
+            "Accept": "application/json, text/javascript, */*; q=0.01",
+            "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+            "Connection": "keep-alive",
+        }
 
     def _get_secid(self, code: str) -> str:
         """
@@ -70,6 +78,7 @@ class EastMoneySource(BaseDataSource):
             resp = requests.get(
                 self.base_url,
                 params=params,
+                headers=self.headers,
                 timeout=self.timeout
             )
             resp.raise_for_status()

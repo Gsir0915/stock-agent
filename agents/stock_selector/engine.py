@@ -65,7 +65,7 @@ class StockSelectorEngine:
     def _load_config(self):
         """加载配置文件"""
         if self._config is None:
-            from app.config import get_config
+            from app.utils.config_handler import get_config
             self._config = get_config()
 
     def get_market_turnover(self, date: Optional[str] = None) -> float:

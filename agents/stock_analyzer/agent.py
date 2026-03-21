@@ -104,10 +104,10 @@ class StockAnalyzerAgent(BaseAgent):
                 return AgentResult.fail(f"分析失败：{result.errors}")
 
             # 生成分析报告
-            report_service = ReportService(reports_dir="reports")
-            report_path = report_service.generate_report(
+            report_service = ReportService(output_dir="reports")
+            report_path = report_service.generate_markdown_report(
                 code=code,
-                name=name,
+                stock_name=name,
                 technical={
                     "success": result.technical_success,
                     "indicators": result.technical_indicators,
@@ -120,7 +120,7 @@ class StockAnalyzerAgent(BaseAgent):
                     "rating": result.fundamental_rating,
                     "details": result.fundamental_details,
                 },
-                sentiment={
+                news={
                     "success": result.sentiment_success,
                     "news": result.sentiment_news,
                     "summary": result.sentiment_summary,
